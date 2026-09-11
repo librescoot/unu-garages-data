@@ -1,0 +1,70 @@
+name: Publish Garage Data
+
+on:
+  schedule:
+    # Weekly, as a reminder to re-verify stale entries
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+  push:
+    paths:
+      - garages-source.json
+      - garages_v2.json
+      - index.html
+      - garages.html
+      - garages-de.html
+      - schema.json
+      - build.py
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify generated files are up to date
+        run: |
+          cp garages_v2.json /tmp/garages_v2.json
+          python3 build.py
+          diff /tmp/garages_v2.json garages_v2.json
+
+      - name: Validate against schema
+        run: |
+          pip install --quiet jsonschema
+          python3 - <<'EOF'
+          import json, jsonschema
+          schema = json.load(open('schema.json'))
+          for f in ('garages-source.json', 'garages_v2.json'):
+              jsonschema.validate(json.load(open(f)), schema)
+              print(f, 'valid')
+          garages = json.load(open('garages_v2.json'))['garages']
+          assert all(e.get('r') == 1 or e.get('d') for e in garages), 'published set contains unconfirmed entries'
+          print(len(garages), 'garages published')
+          EOF
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Stage pages artifact
+        run: |
+          mkdir -p _pages
+          cp garages_v2.json schema.json _pages/
+          cp index.html garages.html garages-de.html _pages/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _pages
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

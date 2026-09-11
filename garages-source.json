@@ -1,0 +1,2651 @@
+{
+ "$schema": "https://librescoot.org/unu-garages-data/schema.json",
+ "garages": [
+  {
+   "n": "2 Rad Basilisk AG",
+   "p": "+41612722222",
+   "s": "Margarethenstrasse 59",
+   "z": "4053",
+   "c": "Basel",
+   "cc": "CH",
+   "ll": [
+    47.54597,
+    7.5838
+   ],
+   "w": "https://2radbasilisk.ch/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "2Radhelden GmbH",
+   "p": "+4319296690",
+   "s": "Hackingerstraße 5E",
+   "z": "1140",
+   "c": "Wien",
+   "cc": "AT",
+   "ll": [
+    48.1932,
+    16.27963
+   ],
+   "w": "https://www.bosch-ebike.com/de/service/haendlersuche/2radhelden-gmbh-50435",
+   "r": -1
+  },
+  {
+   "n": "A&S Automobile GmbH",
+   "p": "+4955515899274",
+   "s": "Im Grünen Winkel 26",
+   "z": "37154",
+   "c": "Northeim",
+   "cc": "DE",
+   "ll": [
+    51.76605,
+    9.95608
+   ],
+   "w": "http://as-automobile-gmbh.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "A. Kaiser Bosch Carservice",
+   "p": "+4951024514",
+   "s": "Gleidinger Straße 14",
+   "z": "30880",
+   "c": "Laatzen",
+   "cc": "DE",
+   "ll": [
+    52.27953,
+    9.88512
+   ],
+   "w": "https://www.boschcarservicekaiser.de/kontakt/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "A.&I. Zbinden Velos Motos",
+   "p": "+41318292457",
+   "s": "Leutschenstrasse 1",
+   "z": "3038",
+   "c": "Kirchlindach",
+   "cc": "CH",
+   "ll": [
+    47.00051,
+    7.40677
+   ],
+   "w": "https://www.zbinden-vemo.ch/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Albrecht KFZ Technik",
+   "p": "+49217321399",
+   "s": "Herzogstraße 9",
+   "z": "40764",
+   "c": "Langenfeld",
+   "cc": "DE",
+   "ll": [
+    51.12384,
+    6.97021
+   ],
+   "w": "https://www.autopro.de/albrecht-andreas/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "APK Beverwijk",
+   "p": "+31251217623",
+   "s": "Vennelaan 8",
+   "z": "1947 HL",
+   "c": "Beverwijk",
+   "cc": "NL",
+   "ll": [
+    52.48648,
+    4.6662
+   ],
+   "w": "https://www.boschcarservicebeverwijk.nl/",
+   "r": -1
+  },
+  {
+   "n": "Assenheimer + Mulfinger GmbH & Co. KG",
+   "p": "+49713297580",
+   "s": "Südstraße 40",
+   "z": "74072",
+   "c": "Heilbronn",
+   "cc": "DE",
+   "w": "https://www.europages.co.uk/ASSENHEIMER-MULFINGER-GMBH-CO-KG/DEU116491-00101.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Atelier Dynamic Sport",
+   "p": "+33142813970",
+   "s": "Rue Turgot 21",
+   "z": "75009",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.8808,
+    2.345
+   ],
+   "w": "https://www.dynamicmotos.com/magasin-atelier-dynamic-sport",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Auto Weinert Kfz-Meisterwerkstatt",
+   "p": "+498146945100",
+   "s": "Gewerbering 14",
+   "z": "82272",
+   "c": "Moorenweis",
+   "cc": "DE",
+   "ll": [
+    48.15573,
+    11.08732
+   ],
+   "w": "https://www.reifen.com/en-de/storeselect/ziplist/8",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Auto-Planet AG",
+   "p": "+49365436810",
+   "s": "An der Beerweinschänke 3+5",
+   "z": "07554",
+   "c": "Gera",
+   "cc": "DE",
+   "ll": [
+    50.88849,
+    12.13959
+   ],
+   "w": "https://www.auto-planet.de/",
+   "d": 1,
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "AutoArenA",
+   "p": "+49713297580",
+   "s": "Neckargartacher Straße 73-75",
+   "z": "74172",
+   "c": "Neckarsulm",
+   "cc": "DE",
+   "ll": [
+    49.18809,
+    9.20161
+   ],
+   "w": "https://www.assenheimer-mulfinger.de/unternehmen/standorte/standort/autoarena-eine-marke-von-assenheimermulfinger/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autobedrijf van Huffelen",
+   "p": "+31578692924",
+   "s": "Brugstraat 4",
+   "z": "8181 VH",
+   "c": "Heerde",
+   "cc": "NL",
+   "ll": [
+    52.38951,
+    6.05101
+   ],
+   "w": "https://vanhuffelen.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autobedrijf Weerheim",
+   "p": "+31152146328",
+   "s": "Haantje 17",
+   "z": "2288 CV",
+   "c": "Rijswijk",
+   "cc": "NL",
+   "ll": [
+    52.02124,
+    4.34452
+   ],
+   "w": "https://autobedrijfweerheim.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autogroep Bos en Slegers",
+   "p": "+31402522425",
+   "s": "Steenoven 28",
+   "z": "5626 DK",
+   "c": "Eindhoven",
+   "cc": "NL",
+   "ll": [
+    51.48382,
+    5.42577
+   ],
+   "w": "https://webstatsdomain.org/d/www.bosenslegers.nl",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autohaus Marsani e.K.(KFZ)",
+   "p": "+49232496930",
+   "s": "Im Vogelsang 99",
+   "z": "45527",
+   "c": "Hattingen",
+   "cc": "DE",
+   "ll": [
+    51.4,
+    7.21534
+   ],
+   "w": "https://autowerkstatt-hattingen.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autohaus Stieber GmbH",
+   "p": "+4971180609427",
+   "s": "Emerholzweg 5",
+   "z": "70439",
+   "c": "Stuttgart",
+   "cc": "DE",
+   "ll": [
+    48.85397,
+    9.15052
+   ],
+   "w": "https://www.autohaus-stieber.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autohof Leinestraße GbR",
+   "p": "+493413366965",
+   "s": "Leinestraße 83",
+   "z": "04279",
+   "c": "Leipzig",
+   "cc": "DE",
+   "ll": [
+    51.28691,
+    12.41042
+   ],
+   "w": "https://autohof-leinestrasse.de/",
+   "r": -1
+  },
+  {
+   "n": "AutoService Manfred Schreyer GmbH",
+   "p": "+4986712429",
+   "s": "Hillmannstraße 29",
+   "z": "84503",
+   "c": "Altötting",
+   "cc": "DE",
+   "ll": [
+    48.21935,
+    12.67757
+   ],
+   "w": "https://www.as-schreyer.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autotechnik Janssen BCS",
+   "p": "+496131507026",
+   "s": "Wilhelm-Maybach-Straße 17",
+   "z": "55129",
+   "c": "Mainz",
+   "cc": "DE",
+   "ll": [
+    49.9591,
+    8.25663
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/autotechnik-janssen/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": -1
+  },
+  {
+   "n": "Autowerkstatt-KARO - GbR",
+   "p": "+492084396699",
+   "s": "Elbestraße 3",
+   "z": "45478",
+   "c": "Mülheim an der Ruhr",
+   "cc": "DE",
+   "ll": [
+    51.43157,
+    6.85688
+   ],
+   "w": "https://autowerkstatt-karo.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "B 469 Werkstatt KFZ-Reparatur und Instandhaltung",
+   "p": "+499372944888",
+   "s": "Presentstraße 20",
+   "z": "63939",
+   "c": "Wörth am Main",
+   "cc": "DE",
+   "ll": [
+    49.78801,
+    9.16932
+   ],
+   "w": "https://www.b469.net/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "B&L Fahrzeugtechnik GmbH",
+   "p": "+497112597695",
+   "s": "Lerchenstraße 57-59",
+   "z": "70176",
+   "c": "Stuttgart",
+   "cc": "DE",
+   "ll": [
+    48.78081,
+    9.15779
+   ],
+   "w": "https://bl-fahrzeugtechnik.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS & Sen Automobile",
+   "p": "+497531694391",
+   "s": "Maybachstraße 4a",
+   "z": "78467",
+   "c": "Konstanz",
+   "cc": "DE",
+   "ll": [
+    47.67729,
+    9.15247
+   ],
+   "w": "https://www.bcs-konstanz.com/",
+   "r": 0
+  },
+  {
+   "n": "BCS Auto Katz",
+   "p": "+49511575026",
+   "s": "Hannoversche Straße 128",
+   "z": "30627",
+   "c": "Hannover",
+   "cc": "DE",
+   "ll": [
+    52.3848,
+    9.82723
+   ],
+   "w": "https://autokatz.de/team.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Autohaus Sorg",
+   "p": "+4971719098280",
+   "s": "Lorcher Straße 38",
+   "z": "73525",
+   "c": "Schwäbisch Gmünd",
+   "cc": "DE",
+   "ll": [
+    48.79908,
+    9.785
+   ],
+   "w": "https://www.autohaussorg.de/",
+   "r": -1
+  },
+  {
+   "n": "BCS Berlin G. Holtz & Co.",
+   "p": "+49303917854",
+   "s": "Dovestraße 7",
+   "z": "10587",
+   "c": "Berlin",
+   "cc": "DE",
+   "ll": [
+    52.52064,
+    13.32018
+   ],
+   "w": "https://bosch-service-holtz.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Bremen Seelig GmbH&Co.KG",
+   "p": "+49421499990",
+   "s": "Große Sortillenstraße 32",
+   "z": "28195",
+   "c": "Bremen",
+   "cc": "DE",
+   "ll": [
+    53.0793,
+    8.80169
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/seelig-bremen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Brünker&Heinemann GmbH",
+   "p": "+49221386331",
+   "s": "Bonner Wall 39",
+   "z": "50677",
+   "c": "Köln",
+   "cc": "DE",
+   "ll": [
+    50.91772,
+    6.94958
+   ],
+   "w": "https://tisto.net/partner/bcs-bruenkerheinemann-gmbh/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Christl Noack",
+   "p": "+4974714177",
+   "s": "Daimlerstraße 7",
+   "z": "72379",
+   "c": "Hechingen",
+   "cc": "DE",
+   "ll": [
+    48.36645,
+    8.96375
+   ],
+   "w": "https://www.elektroroller-forum.de/viewtopic.php?t=40892",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Deschler GmbH",
+   "p": "+4978317200",
+   "s": "Crailsheimer Straße 65",
+   "z": "74523",
+   "c": "Schwaebisch Hall",
+   "cc": "DE",
+   "ll": [
+    49.11883,
+    9.74924
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/deschler-schwaebisch-hall/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Dresden Mezger GmbH&Co KG",
+   "p": "+49351876750",
+   "s": "Wiener Straße 45",
+   "z": "01219",
+   "c": "Dresden",
+   "cc": "DE",
+   "ll": [
+    51.03533,
+    13.75117
+   ],
+   "w": "https://www.bikes4sale.com/new-bike-showrooms/dealer/unu/germany/dresden/21283/bcs-dresden-mezger-gmbh-co-kg",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Ergolding Stangl KG",
+   "p": "+4987173332",
+   "s": "Meisenstraße 22",
+   "z": "84030",
+   "c": "Ergolding",
+   "cc": "DE",
+   "ll": [
+    48.55921,
+    12.1569
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/stangl-la/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Falkensee Autohaus Tehrani",
+   "p": "+493322232838",
+   "s": "Krefelder Straße 5",
+   "z": "14612",
+   "c": "Falkensee",
+   "cc": "DE",
+   "ll": [
+    52.56267,
+    13.11626
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/tehrani-falkensee/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Fuchs GmbH Fuerth",
+   "p": "+499117849081",
+   "s": "Georg-Benda-Straße 7",
+   "z": "90763",
+   "c": "Fürth",
+   "cc": "DE",
+   "ll": [
+    49.44652,
+    10.9948
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/fuchs-fuerth/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Hirz GmbH & Co.KG",
+   "p": "+4975715885",
+   "s": "Gorheimer Straße 25",
+   "z": "72488",
+   "c": "Sigmaringen",
+   "cc": "DE",
+   "ll": [
+    48.08859,
+    9.19848
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/hirz-sigmaringen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Höchberg Mezger GmbH",
+   "p": "+499314978241",
+   "s": "Einsteinstraße 2",
+   "z": "97204",
+   "c": "Höchberg",
+   "cc": "DE",
+   "ll": [
+    49.773,
+    9.87061
+   ],
+   "w": "https://www.mezger.de/wuerzburg-hoechberg/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Kfr Schwirtlich GmbH",
+   "p": "+4980615522",
+   "s": "Daimlerstraße 1",
+   "z": "83043",
+   "c": "Bad Aibling",
+   "cc": "DE",
+   "ll": [
+    47.87267,
+    12.01508
+   ],
+   "w": "https://www.kfz-schwirtlich.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Kfz-Technik Wickfelder",
+   "p": "+4991855108",
+   "s": "Freiburger Straße 43",
+   "z": "88400",
+   "c": "Biberach",
+   "cc": "DE",
+   "ll": [
+    48.10668,
+    9.79317
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/dw-wickfelder-biberach/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Krefeld R. Treeker",
+   "p": "+492151155700",
+   "s": "Emil-Schäfer-Straße 75-77",
+   "z": "47800",
+   "c": "Krefeld",
+   "cc": "DE",
+   "ll": [
+    51.35467,
+    6.62322
+   ],
+   "w": "https://www.treeker.de/bosch-carservice-krefeld/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Lörrach Grimmeisen & Co GmbH",
+   "p": "+49762193270",
+   "s": "Brombacher Straße 87",
+   "z": "79539",
+   "c": "Lörrach",
+   "cc": "DE",
+   "ll": [
+    47.62354,
+    7.67554
+   ],
+   "w": "https://grimmeisen.org/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Marseglia GmbH",
+   "p": "+491754243133",
+   "s": "Großeislinger Straße 54",
+   "z": "73033",
+   "c": "Göppingen",
+   "cc": "DE",
+   "ll": [
+    48.70189,
+    9.67144
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/marseglia-goeppingen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Metzinger GmbH",
+   "p": "+49681992670",
+   "s": "Koblenzer Straße 62",
+   "z": "66115",
+   "c": "Saarbrücken",
+   "cc": "DE",
+   "ll": [
+    49.24139,
+    6.93957
+   ],
+   "w": "https://boschservice-metzinger.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Mezger GmbH Bergtheim",
+   "p": "+499721655154",
+   "s": "Am Bergl 17 1/2",
+   "z": "97424",
+   "c": "Bergtheim",
+   "cc": "DE",
+   "ll": [
+    50.03841,
+    10.20662
+   ],
+   "w": "https://www.mezger.de/mezger/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Osse GmbH",
+   "p": "+493641282881",
+   "s": "Damaschkeweg 65",
+   "z": "07745",
+   "c": "Jena",
+   "cc": "DE",
+   "ll": [
+    50.89996,
+    11.58538
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/osse-damaschkeweg-jena/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Ralf Schlebusch e.K.",
+   "p": "+492361306870",
+   "s": "Zum Wetterschacht 15",
+   "z": "45659",
+   "c": "Recklinghausen",
+   "cc": "DE",
+   "ll": [
+    51.59896,
+    7.19302
+   ],
+   "w": "https://www.bosch-service-schlebusch.de/de/start",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Schweinfurt Mezger GmbH&CoKG",
+   "p": "+499721655154",
+   "s": "Sven-Wingquist-Straße 2",
+   "z": "97424",
+   "c": "Schweinfurt",
+   "cc": "DE",
+   "ll": [
+    50.03034,
+    10.2299
+   ],
+   "w": "https://www.mezger.de/schweinfurt/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Wagener Technik GmbH",
+   "p": "+495619587150",
+   "s": "Falderbaumstraße 25",
+   "z": "34123",
+   "c": "Kassel",
+   "cc": "DE",
+   "ll": [
+    51.27771,
+    9.5011
+   ],
+   "w": "https://www.wagener-technik.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS Zitta Robert e.U.",
+   "p": "+43732650000",
+   "s": "Hollabererstraße 5",
+   "z": "4020",
+   "c": "Linz",
+   "cc": "AT",
+   "ll": [
+    48.3014,
+    14.32726
+   ],
+   "w": "https://kfz-zitta.at/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BCS-Kadykov",
+   "p": "+4973197716090",
+   "s": "Zeppelinstraße 15",
+   "z": "89231",
+   "c": "Neu-Ulm",
+   "cc": "DE",
+   "ll": [
+    48.3889,
+    10.01966
+   ],
+   "w": "https://bcs-kadykov.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bemoto GmbH Bechtiger Motos",
+   "p": "+41443114830",
+   "s": "Sonnenrain 22",
+   "z": "79802",
+   "c": "Dettighofen",
+   "cc": "DE",
+   "ll": [
+    47.6307,
+    8.47031
+   ],
+   "w": "https://bemoto.ch/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Beumers de Jong Scooters",
+   "p": "+31206157188",
+   "s": "Haarlemmermeerstraat 47-53",
+   "z": "1058 JP",
+   "c": "Amsterdam",
+   "cc": "NL",
+   "ll": [
+    52.35625,
+    4.85055
+   ],
+   "w": "https://beumerdejong.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bike Service Center - Maxdorf",
+   "p": "+4962379792132",
+   "s": "Rudolf-Diesel-Straße 6",
+   "z": "67133",
+   "c": "Maxdorf",
+   "cc": "DE",
+   "ll": [
+    49.48971,
+    8.29061
+   ],
+   "w": "https://www.bsc-maxdorf.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "BikeShuttle-Service",
+   "p": "+4936138039440",
+   "s": "Hoyerswerdaer Straße 8D",
+   "z": "02906",
+   "c": "Kreba-Neudorf",
+   "cc": "DE",
+   "ll": [
+    51.34615,
+    14.6806
+   ],
+   "w": "https://www.bikeshuttle-schmid.at/en/bike-shuttle.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Amstelveen",
+   "p": "+31203627028",
+   "s": "Weverij 14",
+   "z": "1185 ZG",
+   "c": "Amstelveen",
+   "cc": "NL",
+   "ll": [
+    52.29061,
+    4.83954
+   ],
+   "w": "https://stagemarkt.nl/leerbedrijven/bosch-car-service-amstelveen_9dba1e4c-d1cb-e811-80e9-0050568f0ca6",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Autohaus Jannek GbR",
+   "p": "+4990729653919",
+   "s": "Rudolf-Diesel-Ring 27",
+   "z": "89415",
+   "c": "Lauingen",
+   "cc": "DE",
+   "ll": [
+    48.5767,
+    10.45117
+   ],
+   "w": "https://www.autohaus-jannek.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Bernburg - Daniel Zahn",
+   "p": "+4934718696545",
+   "s": "Dessauer Straße 51",
+   "z": "06406",
+   "c": "Bernburg",
+   "cc": "DE",
+   "ll": [
+    51.79908,
+    11.77327
+   ],
+   "w": "https://bosch-car-service-de.open-closed.net/bernburg-saale-offnungszeiten-der-car-service-daniel-zahn",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Blickle Inh. Stadler",
+   "p": "+4975817306",
+   "s": "Herbertinger Straße 31",
+   "z": "88348",
+   "c": "Bad Saulgau",
+   "cc": "DE",
+   "ll": [
+    48.02012,
+    9.4922
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/blickle-badsaulgau/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service IJsselstein",
+   "p": "+31306880119",
+   "s": "Lage Dijk-Noord 11",
+   "z": "3401 VA",
+   "c": "IJsselstein",
+   "cc": "NL",
+   "ll": [
+    52.01214,
+    5.06166
+   ],
+   "w": "https://dslidingdoors.blogspot.com/2020/08/bosch-car-service-ijsselstein.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Linn",
+   "p": "+4963523867",
+   "s": "Woogmorgen 6",
+   "z": "67292",
+   "c": "Kirchheimbolanden",
+   "cc": "DE",
+   "ll": [
+    49.66124,
+    8.02151
+   ],
+   "w": "https://www.boschservicelinn.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Meyers GmbH",
+   "p": "+49228470547",
+   "s": "Rathausstraße 47",
+   "z": "47638",
+   "c": "Straelen",
+   "cc": "DE",
+   "ll": [
+    51.44266,
+    6.27434
+   ],
+   "w": "https://www.boschcarservice.com/xc/en/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Treuchtlingen Linss",
+   "p": "+4991426325",
+   "s": "An der Heusteige 4",
+   "z": "91757",
+   "c": "Treuchtlingen",
+   "cc": "DE",
+   "ll": [
+    48.94282,
+    10.91501
+   ],
+   "w": "https://linss-autoservice.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Uelsen Autohaus Reinhardt",
+   "p": "+49594293810",
+   "s": "Ziegeleistraße 7",
+   "z": "49843",
+   "c": "Uelsen",
+   "cc": "DE",
+   "ll": [
+    52.50015,
+    6.87385
+   ],
+   "w": "https://www.autohaus-reinhardt.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Valkenswaard",
+   "p": "+31402075115",
+   "s": "Dragonder 2A",
+   "z": "5554 GM",
+   "c": "Valkenswaard",
+   "cc": "NL",
+   "ll": [
+    51.34009,
+    5.46287
+   ],
+   "w": "https://www.autobedrijf.eu/bosch-car-service-valkenswaard/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Car Service Vogel GmbH",
+   "p": "+4965891660",
+   "s": "Hochwaldstraße 41",
+   "z": "54429",
+   "c": "Schillingen",
+   "cc": "DE",
+   "ll": [
+    49.63478,
+    6.7931
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/vogel-schillingen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Service Manfred Köcher",
+   "p": "+49603286090",
+   "s": "Steinfurther Hauptstraße 85",
+   "z": "61231",
+   "c": "Bad Nauheim",
+   "cc": "DE",
+   "ll": [
+    50.40171,
+    8.74097
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/koecher-bad-nauheim/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Bosch Service Theo Niessing GmbH",
+   "p": "+4928658090",
+   "s": "Schwietering 9",
+   "z": "46348",
+   "c": "Raesfeld",
+   "cc": "DE",
+   "ll": [
+    51.76727,
+    6.85408
+   ],
+   "w": "https://www.bosch-service-niessing.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Brunn GmbH",
+   "p": "+492286682209",
+   "s": "Bendenweg 107",
+   "z": "53121",
+   "c": "Bonn",
+   "cc": "DE",
+   "ll": [
+    50.73849,
+    7.05788
+   ],
+   "w": "https://autoland-brunn.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Car systems Scheil GmbH & Co. KG",
+   "p": "+493415830580",
+   "s": "Zum Apelstein 2",
+   "z": "04158",
+   "c": "Leipzig",
+   "cc": "DE",
+   "ll": [
+    51.39368,
+    12.34127
+   ],
+   "w": "https://www.bosch-leipzig.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "CARDOC-Autoklinik GmbH",
+   "p": "+49208620020",
+   "s": "Lilienthal- / Ecke Heinestraße 55",
+   "z": "46117",
+   "c": "Oberhausen",
+   "cc": "DE",
+   "ll": [
+    51.50543,
+    6.88848
+   ],
+   "w": "https://www.cardoc-oberhausen.com/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "City Car Service GmbH&Co. KG",
+   "p": "+49211360511",
+   "s": "Oststraße 98-100",
+   "z": "40210",
+   "c": "Düsseldorf",
+   "cc": "DE",
+   "ll": [
+    51.22244,
+    6.78638
+   ],
+   "w": "https://dingerkus-duesseldorf.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Click n wheel",
+   "p": "+33699502080",
+   "s": "59 Cours Victor Hugo",
+   "z": "33000",
+   "c": "Bordeaux",
+   "cc": "FR",
+   "ll": [
+    44.83574,
+    -0.56907
+   ],
+   "w": "https://www.pagesjaunes.fr/pros/61008903",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Danis Zweiradschmiede",
+   "p": "+49754134777",
+   "s": "Bahnhofstraße 12",
+   "z": "91413",
+   "c": "Neustadt an der Aisch",
+   "cc": "DE",
+   "ll": [
+    49.57795,
+    10.60393
+   ],
+   "w": "https://d7leadfinder.com/app/view-leads/19379672/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Deinlein - Motorroller",
+   "p": "+4915167513353",
+   "s": "Sägewerkstr 13",
+   "z": "83404",
+   "c": "Ainring",
+   "cc": "DE",
+   "ll": [
+    47.78922,
+    12.94267
+   ],
+   "w": "https://deinleinkrad.info/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Boulogne",
+   "p": "+33147611028",
+   "s": "Avenue Édouard Vaillant 86",
+   "z": "92100",
+   "c": "Boulogne-Billancourt",
+   "cc": "FR",
+   "ll": [
+    48.83448,
+    2.24565
+   ],
+   "w": "https://www.pirelli.com/tyres/fr-fr/moto/trouvez-votre-revendeur/france/boulogne%20billancourt/fr0001104868",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Montrueil",
+   "p": "+33148588837",
+   "s": "Rue de Paris 86",
+   "z": "93100",
+   "c": "Montreuil",
+   "cc": "FR",
+   "ll": [
+    48.85702,
+    2.42885
+   ],
+   "w": "https://www.facebook.com/docbiker.officiel/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Nantes",
+   "p": "+33228438781",
+   "s": "Boulevard Robert Schuman 223",
+   "z": "44300",
+   "c": "Nantes",
+   "cc": "FR",
+   "ll": [
+    47.24473,
+    -1.57608
+   ],
+   "w": "https://fr.placedigger.com/doc-biker-nantes153516487.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 12",
+   "p": "+33622771642",
+   "s": "Boulevard Soult 11",
+   "z": "75012",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.83632,
+    2.40712
+   ],
+   "w": "https://www.sitedesmarques.com/magasin-services-automobiles/doc-biker-paris-13-paris-75013-464561.htm",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 13",
+   "p": "+33147074147",
+   "s": "Boulevard de l'Hôpital 86",
+   "z": "75013",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.83709,
+    2.35931
+   ],
+   "w": "https://www.justacote.com/paris-75013/moto-et-scooter/doc-biker-364594.htm",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 14",
+   "p": "+33145405249",
+   "s": "Avenue du Maine 185",
+   "z": "75014",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.83073,
+    2.326
+   ],
+   "w": "https://www.metzeler.com/fr-fr/concessionaires-et-distributeurs/france/paris/fr0001166998",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 15 Vouillé",
+   "p": "+33145335896",
+   "s": "Rue de Vouillé 44",
+   "z": "75015",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.83409,
+    2.30701
+   ],
+   "w": "https://www.michelin.fr/motorbike/dealer-locator/paris/ycabvxq-doc-biker-paris-15-vouille",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 16",
+   "p": "+33981798001",
+   "s": "Avenue de Versailles 49",
+   "z": "75016",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.84834,
+    2.27496
+   ],
+   "w": "https://sd.maptons.com/p/4095471143",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Paris 3",
+   "p": "+33143363651",
+   "s": "Boulevard de Sébastopol 44",
+   "z": "75003",
+   "c": "Paris",
+   "cc": "FR",
+   "ll": [
+    48.86233,
+    2.35056
+   ],
+   "w": "https://www.cylex-locale.fr/entreprises/doc%27biker-paris-3-r%C3%A9paration-scooter-et-moto-14621843.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Toulouse",
+   "p": "+33561256278",
+   "s": "Allée des Demoiselles 38",
+   "z": "31400",
+   "c": "Toulouse",
+   "cc": "FR",
+   "ll": [
+    43.58942,
+    1.45576
+   ],
+   "w": "https://atelier-de-reparation-pour-motos.autour-de-moi.com/doc-biker-toulouse-blagnac-2862013.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Doc Biker Toulouse Blagnac",
+   "p": "+33534432971",
+   "s": "Rue Louis Bonin 6",
+   "z": "31200",
+   "c": "Toulouse",
+   "cc": "FR",
+   "ll": [
+    43.62818,
+    1.4115
+   ],
+   "w": "https://www.doctoride.com/garages/doc-biker-toulouse-blagnac-toulouse-31200-derriere-le-magasin-speedway-6-rue-louis-bonin",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Dr. W.-M. Schmid GmbH",
+   "p": "+49201591163",
+   "s": "Aussigstraße 1",
+   "z": "38114",
+   "c": "Braunschweig",
+   "cc": "DE",
+   "ll": [
+    52.28,
+    10.49516
+   ],
+   "w": "https://www.bosch-service-braunschweig.de/",
+   "r": -1
+  },
+  {
+   "n": "EBike Frischmann",
+   "p": "+4917643442583",
+   "s": "Brunhamstraße 21",
+   "z": "81249",
+   "c": "München",
+   "cc": "DE",
+   "ll": [
+    48.14058,
+    11.42639
+   ],
+   "w": "https://ebike-frischmann.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Ernst Lorch KG",
+   "p": "+497319845112",
+   "s": "Carl-Zeiss-Straße 7",
+   "z": "89231",
+   "c": "Neu-Ulm",
+   "cc": "DE",
+   "ll": [
+    48.38987,
+    10.04376
+   ],
+   "w": "https://lorch-gruppe.com/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Escoot Bordeaux",
+   "p": "+33768822114",
+   "s": "Rue Bouthier 153",
+   "z": "33100",
+   "c": "Bordeaux",
+   "cc": "FR",
+   "ll": [
+    44.85176,
+    -0.55629
+   ],
+   "w": "https://www.reeent.com/en/rental/bikes/bordeaux/escoot-bordeaux-vente-location-reparation-deux-roues-electriques-bordeaux",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Fa. Blank & Sauber",
+   "p": "+491716018087",
+   "s": "B. Scharfenberg",
+   "z": "38110",
+   "c": "Braunschweig",
+   "cc": "DE",
+   "w": "https://www.autoplenum.de/waschanlage/braunschweig/blank-sauber-97507",
+   "r": -1
+  },
+  {
+   "n": "Fa. Wilhelm Zweiradtechnik",
+   "p": "+491752229977",
+   "s": "General-Pape-Straße 8",
+   "z": "12101",
+   "c": "Berlin",
+   "cc": "DE",
+   "ll": [
+    52.47628,
+    13.36735
+   ],
+   "w": "https://erollerberlin.com/",
+   "v": "2026-09-11",
+   "r": 1,
+   "lp": 1
+  },
+  {
+   "n": "Fahrrad Gärtner - Diego Mercuri",
+   "p": "+496151371635",
+   "s": "Frankfurter Landstraße 108",
+   "z": "64291",
+   "c": "Darmstadt",
+   "cc": "DE",
+   "ll": [
+    49.90815,
+    8.65667
+   ],
+   "w": "https://www.fahrrad-gaertner.de/impressum.php",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Fahrzeughaus Müller GmbH",
+   "p": "+493684139511",
+   "s": "Themarer Straße 5",
+   "z": "98553",
+   "c": "Schleusingen",
+   "cc": "DE",
+   "ll": [
+    50.50201,
+    10.73833
+   ],
+   "w": "https://www.fahrzeughaus-mueller.de/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": -1
+  },
+  {
+   "n": "Fahrzeugtechnik - List",
+   "p": "+4928588381151",
+   "s": "Bannemer Feld 32",
+   "z": "46569",
+   "c": "Hünxe",
+   "cc": "DE",
+   "ll": [
+    51.6447,
+    6.75678
+   ],
+   "w": "https://branchenbuch.meinestadt.de/huenxe/company/10654891",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Falch Car Service GmbH",
+   "p": "+4351234620811",
+   "s": "Etrichgasse 40",
+   "z": "6020",
+   "c": "Innsbruck",
+   "cc": "AT",
+   "ll": [
+    47.26776,
+    11.43261
+   ],
+   "w": "https://www.falch.co.at/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "FB-Motorrad GmbH",
+   "p": "+49617241091",
+   "s": "Hans-Mess-Straße 17",
+   "z": "61440",
+   "c": "Oberursel (Taunus)",
+   "cc": "DE",
+   "ll": [
+    50.22184,
+    8.57888
+   ],
+   "w": "https://www.fb-motorrad.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "G. W. Fischer GmbH",
+   "p": "+49605192380",
+   "s": "Büdinger Straße 9",
+   "z": "63584",
+   "c": "Gründau",
+   "cc": "DE",
+   "ll": [
+    50.20858,
+    9.13608
+   ],
+   "w": "https://moovitapp.com/index/en/public_transit-G_W_Fischer_Gmbh_Bosch_Service-Mainz-site_352052992-4409",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Gailtaler Autoklinik KFZtech",
+   "p": "+43428470025",
+   "s": "Kirchbach 70",
+   "z": "9632",
+   "c": "Kirchbach",
+   "cc": "AT",
+   "ll": [
+    46.66973,
+    13.19434
+   ],
+   "w": "https://www.autoklinik.at/index.php/team",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Garagenbedrijf Kiefte",
+   "p": "+31341561020",
+   "s": "Schoolweg 72B",
+   "z": "1787 AW",
+   "c": "Julianadorp",
+   "cc": "NL",
+   "ll": [
+    52.89562,
+    4.76323
+   ],
+   "w": "https://www.garagekiefte.nl/bosch-car-service-kiefte/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Goois Motor en Scooter Centrum",
+   "p": "+31356949405",
+   "s": "Energiestraat 27A",
+   "z": "1411 AR",
+   "c": "Naarden",
+   "cc": "NL",
+   "ll": [
+    52.30238,
+    5.15042
+   ],
+   "w": "https://www.gooisescooter.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Hans W. Schröder OHG",
+   "p": "+49231850007",
+   "s": "Lindenhorster Straße 97",
+   "z": "44147",
+   "c": "Dortmund",
+   "cc": "DE",
+   "ll": [
+    51.54284,
+    7.45283
+   ],
+   "w": "https://rial.de/store/hans-w-schroeder-ohg-bosch-service/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Herbert Wilke KFZ",
+   "p": "+49407922762",
+   "s": "Bremer Straße 232",
+   "z": "21073",
+   "c": "Hamburg",
+   "cc": "DE",
+   "ll": [
+    53.44686,
+    9.95803
+   ],
+   "w": "https://stadtbranche.de/w-herbert-wilke-kfz.de",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Hermann Müller GmbH",
+   "p": "+4941547276",
+   "s": "Hamburger Straße 43",
+   "z": "22952",
+   "c": "Lütjensee",
+   "cc": "DE",
+   "ll": [
+    53.65269,
+    10.3643
+   ],
+   "w": "https://www.autoscout24.de/haendler/bosch-carservice-hermann-mueller-gmbh",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Hornburg Automobile GmbH",
+   "p": "+49512133818",
+   "s": "Kennedydamm 33",
+   "z": "31135",
+   "c": "Hildesheim",
+   "cc": "DE",
+   "ll": [
+    52.16551,
+    9.96302
+   ],
+   "w": "https://hornburg.bike/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Huiskes-Kokkeler Autogroep",
+   "p": "+31742554141",
+   "s": "Goudstraat 65",
+   "z": "7554 NG",
+   "c": "Hengelo",
+   "cc": "NL",
+   "ll": [
+    52.24432,
+    6.75946
+   ],
+   "w": "https://pon.com/activiteiten/automotive/wholesale-retail/huiskes-kokkeler-autogroep/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": -1
+  },
+  {
+   "n": "Häusler Automobil GmbH & Co. KG-München",
+   "p": "+498945213730",
+   "s": "Wotanstraße 35",
+   "z": "80639",
+   "c": "München",
+   "cc": "DE",
+   "ll": [
+    48.1489,
+    11.5015
+   ],
+   "w": "https://www.haeusler-automobil-gmbh.de/service",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Häusler Automobile Fürstenfeldbruck GmbH&Co. KG",
+   "p": "+49814140060",
+   "s": "Maisacher Straße 127",
+   "z": "82256",
+   "c": "Fürstenfeldbruck",
+   "cc": "DE",
+   "ll": [
+    48.19367,
+    11.25589
+   ],
+   "w": "https://www.haeusler-automobil-gmbh.de/standorte/fuerstenfeldbruck/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Imperia Lingmont",
+   "p": "+31104668172",
+   "s": "Willebrordusstraat 166",
+   "z": "3037 TZ",
+   "c": "Rotterdam",
+   "cc": "NL",
+   "ll": [
+    51.93368,
+    4.4719
+   ],
+   "w": "https://www.imperialingmont.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "In Sachen Auto",
+   "p": "+494131721121",
+   "s": "Arenskule 5",
+   "z": "21339",
+   "c": "Lüneburg",
+   "cc": "DE",
+   "ll": [
+    53.26369,
+    10.41364
+   ],
+   "w": "https://insachenauto.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Insel Sylt Tourismus-Service GmbH - Werkstatt",
+   "p": "+494651998260",
+   "s": "Strandstraße 35",
+   "z": "25980",
+   "c": "Sylt",
+   "cc": "DE",
+   "ll": [
+    54.9079,
+    8.3047
+   ],
+   "w": "https://www.insel-sylt.de/ists-gmbh/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "J. Gregor Autoreparatur GmbH",
+   "p": "+4315441101",
+   "s": "Storkgasse 16",
+   "z": "1050",
+   "c": "Wien",
+   "cc": "AT",
+   "ll": [
+    48.18274,
+    16.35397
+   ],
+   "w": "https://www.firmenabc.at/j-gregor-autoreparatur-gmbh_tEv",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Johann Müller GmbH & Co.KG",
+   "p": "+494068287925",
+   "s": "Neuer Höltigbaum 5",
+   "z": "22143",
+   "c": "Hamburg",
+   "cc": "DE",
+   "ll": [
+    53.60862,
+    10.18464
+   ],
+   "w": "https://mueller-johann.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Josef Buchsteiner GmbH",
+   "p": "+43646854160",
+   "s": "Dorfwerfen 50",
+   "z": "5452",
+   "c": "Pfarrwerfen",
+   "cc": "AT",
+   "ll": [
+    47.46037,
+    13.20218
+   ],
+   "w": "https://www.autoservice.com/josef-buchsteiner-gmbh",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "KFZ Meisterbetrieb Sieben",
+   "p": "+491634037710",
+   "s": "Sandhof 12",
+   "z": "67575",
+   "c": "Eich",
+   "cc": "DE",
+   "ll": [
+    49.73391,
+    8.36862
+   ],
+   "w": "https://home.mobile.de/CARLOSIEBENKFZMEISTERBETRIEB",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Kfz-Meisterbetrieb Gerdinand & Stemmwedel GbR",
+   "p": "+493816672121",
+   "s": "Neue Reihe 19",
+   "z": "18182",
+   "c": "Goorstorf",
+   "cc": "DE",
+   "w": "https://www.finderr.de/autowerkstatt-rostock-kfz-meisterbetrieb-gerdinand-stemmwedel-gbr-239505",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Koc GmbH",
+   "p": "+496201494408",
+   "s": "Bensheimer Straße 4",
+   "z": "69469",
+   "c": "Weinheim",
+   "cc": "DE",
+   "ll": [
+    49.55776,
+    8.65284
+   ],
+   "w": "https://www.boschcarservice-koc.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Kritter Autotechnik Bosch Dienst",
+   "p": "+4993715950",
+   "s": "Allmendgasse 18",
+   "z": "67547",
+   "c": "Worms",
+   "cc": "DE",
+   "ll": [
+    49.62861,
+    8.3694
+   ],
+   "w": "https://www.autoplenum.de/kfz-werkstatt/worms/kritter-autotechnik-bosch-dienst-127664",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Küstencruiser GmbH",
+   "p": "+4938137566420",
+   "s": "Molkenstraße 7",
+   "z": "18055",
+   "c": "Rostock",
+   "cc": "DE",
+   "ll": [
+    54.08926,
+    12.14418
+   ],
+   "w": "http://www.kuestencruiser.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "L'atelier du 2 Roues",
+   "p": "+33985026844",
+   "s": "Route de Souraide 264",
+   "z": "64310",
+   "c": "Saint-Pée-sur-Nivelle",
+   "cc": "FR",
+   "ll": [
+    43.34881,
+    -1.54812
+   ],
+   "w": "https://www.pagesjaunes.fr/pros/60253322",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Liebr SAS",
+   "p": "+33670591873",
+   "s": "Rue Hébert 3",
+   "z": "92140",
+   "c": "Clamart",
+   "cc": "FR",
+   "ll": [
+    48.81326,
+    2.27246
+   ],
+   "w": "https://lesentreprises.com/entreprises/882754724/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Lopez KG Düren",
+   "p": "+492421204903",
+   "s": "Veldener Straße 83",
+   "z": "52349",
+   "c": "Düren",
+   "cc": "DE",
+   "ll": [
+    50.8102,
+    6.47273
+   ],
+   "w": "https://www.lopez-roller.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Ludwig Fetzer GmbH & Co. KG",
+   "p": "+49641302030",
+   "s": "Steinstraße 81-83",
+   "z": "35390",
+   "c": "Gießen",
+   "cc": "DE",
+   "ll": [
+    50.59172,
+    8.67779
+   ],
+   "w": "https://boschservice-fetzer.de/",
+   "v": "2026-09-11",
+   "r": 1
+  },
+  {
+   "n": "Maluck GmbH",
+   "p": "+49346237000",
+   "s": "Mügelner Straße 8",
+   "z": "04769",
+   "c": "Mügeln",
+   "cc": "DE",
+   "ll": [
+    51.2359,
+    13.06822
+   ],
+   "w": "http://www.carservice-maluck.de/",
+   "d": 1,
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mekabike Lyon",
+   "p": "+33478603988",
+   "s": "Avenue Maréchal de Saxe 127",
+   "z": "69003",
+   "c": "Lyon",
+   "cc": "FR",
+   "ll": [
+    45.7571,
+    4.84651
+   ],
+   "w": "https://www.mekabike.fr/contact/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mezger Halle GmbH + Co. KG",
+   "p": "+4934557541630",
+   "s": "Berliner Straße 61",
+   "z": "06116",
+   "c": "Halle",
+   "cc": "DE",
+   "ll": [
+    51.49604,
+    12.00952
+   ],
+   "w": "https://www.mezger.de/halle-berliner-strasse/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Moto Story",
+   "p": "+33478501501",
+   "s": "Rue Roger Salengro 29",
+   "z": "69310",
+   "c": "Pierre-Bénite",
+   "cc": "FR",
+   "ll": [
+    45.70625,
+    4.82166
+   ],
+   "w": "http://www.moto-story.com/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Moto'elec 31 / Pure Rider",
+   "p": "+33977822971",
+   "s": "Rue Louis Bonin 6",
+   "z": "31200",
+   "c": "Toulouse",
+   "cc": "FR",
+   "ll": [
+    43.62754,
+    1.41143
+   ],
+   "w": "https://www.facebook.com/p/MobElec-31-61557386474804/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Moto-BS",
+   "p": "+495313173030",
+   "s": "Gliesmaroder Straße 122",
+   "z": "38106",
+   "c": "Braunschweig",
+   "cc": "DE",
+   "ll": [
+    52.27219,
+    10.53592
+   ],
+   "w": "https://firmeneintrag.creditreform.de/38106/2030378675/JULIA_HOFBAUER_MOTO_BS_BIKES_SCOOTERS",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Motorrad Bader (Waging am See)",
+   "p": "+4986814484",
+   "s": "Gewerbestraße 6",
+   "z": "83329",
+   "c": "Waging am See",
+   "cc": "DE",
+   "ll": [
+    47.9242,
+    12.70627
+   ],
+   "w": "https://www.motorrad-bader.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Motorrad Hafenstein",
+   "p": "+493818010410",
+   "s": "Schutower Straße 11a",
+   "z": "18069",
+   "c": "Rostock",
+   "cc": "DE",
+   "ll": [
+    54.10589,
+    12.06734
+   ],
+   "w": "https://motorrad-hafenstein.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Motorrad Nageldinger",
+   "p": "+49634162324",
+   "s": "Weißenburger Straße 49",
+   "z": "76829",
+   "c": "Landau in der Pfalz",
+   "cc": "DE",
+   "ll": [
+    49.18558,
+    8.11451
+   ],
+   "w": "https://derfotorabe.de/fileadmin/panos/Motorrad-Nageldinger/Motorrad-Nageldinger-Landau.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Motorradzentrum Backes OHG",
+   "p": "+4961391334",
+   "s": "In den Vierzehn Morgen 9",
+   "z": "55257",
+   "c": "Budenheim",
+   "cc": "DE",
+   "ll": [
+    50.02633,
+    8.19843
+   ],
+   "w": "https://motorradhandel.suzuki.de/de/suzuki-haendler/1164693/motorradzentrum-backes-ohg",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "MotorTeam Ralf Schwerin GmbH",
+   "p": "+4943612400",
+   "s": "Neustädter Straße 3",
+   "z": "23758",
+   "c": "Oldenburg",
+   "cc": "DE",
+   "ll": [
+    54.28486,
+    10.87904
+   ],
+   "w": "https://www.motorteam-oldenburg.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "MS Scooter",
+   "p": "+4978155336",
+   "s": "Wilhelm-Röntgen-Straße 14",
+   "z": "77656",
+   "c": "Offenburg",
+   "cc": "DE",
+   "ll": [
+    48.47136,
+    7.92562
+   ],
+   "w": "https://www.msscooter.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "MSA Motorrad Service Altona - Inh. Tobias Trapp",
+   "p": "+49408508927",
+   "s": "Leonore-Mau-Weg 2",
+   "z": "22763",
+   "c": "Hamburg",
+   "cc": "DE",
+   "ll": [
+    53.55923,
+    9.9155
+   ],
+   "w": "https://www.msaltona.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mueller Car Service",
+   "p": "+494161641212",
+   "s": "Harburger Straße 52",
+   "z": "21614",
+   "c": "Buxtehude",
+   "cc": "DE",
+   "ll": [
+    53.47462,
+    9.71236
+   ],
+   "w": "https://www.boschcarservice.com/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Nelsons Autoschmiede",
+   "p": "+4970342779424",
+   "s": "Altdorfer Weg 17",
+   "z": "71139",
+   "c": "Ehningen",
+   "cc": "DE",
+   "ll": [
+    48.6569,
+    8.94754
+   ],
+   "w": "https://kfzwerkstatt.io/2539-nelsons-autoschmiede-kfz-meisterbetrieb",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Nice Scoot",
+   "p": "+33497191775",
+   "s": "23 Route de Turin",
+   "z": "06300",
+   "c": "Nice",
+   "cc": "FR",
+   "ll": [
+    43.70954,
+    7.28428
+   ],
+   "w": "https://www.petitfute.co.uk/v33027-nice-06000/c1168-shopping-mode-cadeaux/c1071-moto-scooter/383477-nice-scoot.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Nick-Werk Motorradwerkstatt",
+   "p": "+4933035095168",
+   "s": "Backofenweg 1",
+   "z": "16540",
+   "c": "Hohen Neuendorf",
+   "cc": "DE",
+   "ll": [
+    52.67206,
+    13.27612
+   ],
+   "w": "https://www.nick-werk.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Paulus Technik GmbH & Co. KG",
+   "p": "+4943178000",
+   "s": "Preetzer straße 304",
+   "z": "24147",
+   "c": "Kiel",
+   "cc": "DE",
+   "ll": [
+    54.2975,
+    10.16513
+   ],
+   "w": "https://paulus-kiel.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Petra Freihube GmbH",
+   "p": "+49642125850",
+   "s": "Willy-Mock-Straße 1",
+   "z": "35037",
+   "c": "Marburg",
+   "cc": "DE",
+   "ll": [
+    50.79496,
+    8.75599
+   ],
+   "w": "https://www.freihube-marburg.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "PIE Technologie",
+   "p": "+33763198452",
+   "s": "2 Grande Rue de la Guillotière",
+   "z": "69007",
+   "c": "Lyon",
+   "cc": "FR",
+   "w": "https://pietechnologie.com/",
+   "r": -1
+  },
+  {
+   "n": "Prestomoto",
+   "p": "+33660479138",
+   "s": "Avenue de la Mer 1508",
+   "z": "83140",
+   "c": "Six-Fours-Les-Plages",
+   "cc": "FR",
+   "ll": [
+    43.10426,
+    5.81879
+   ],
+   "w": "https://powaphil.wixsite.com/prestomoto",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "PtS Veghel",
+   "p": "+31413763023",
+   "s": "Noordkade 3b",
+   "z": "5462 EC",
+   "c": "Veghel",
+   "cc": "NL",
+   "ll": [
+    51.61545,
+    5.53469
+   ],
+   "w": "https://scooters.kymco.nl/dealers/pts-veghel-scooter-service/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "R.Jeromin KFZ & Zweirad-Meister",
+   "p": "+492161475211",
+   "s": "Püllenweg 23A",
+   "z": "41352",
+   "c": "Korschenbroich",
+   "cc": "DE",
+   "ll": [
+    51.19856,
+    6.5472
+   ],
+   "w": "https://jeromin-kfz.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Rayci.nl",
+   "p": "+31642459377",
+   "s": "Henri Dunantlaan 451",
+   "z": "7312 BD",
+   "c": "Apeldoorn",
+   "cc": "NL",
+   "ll": [
+    52.20942,
+    5.94342
+   ],
+   "w": "https://www.rayci.nl/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": -1
+  },
+  {
+   "n": "Reischl Kfz-Technik GmbH",
+   "p": "+43662850500",
+   "s": "Lagerhausstraße 24",
+   "z": "5071",
+   "c": "Wals",
+   "cc": "AT",
+   "ll": [
+    47.78733,
+    12.97755
+   ],
+   "w": "https://www.reischl-kfz.at/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Roller Center Durlach",
+   "p": "+49721498596",
+   "s": "Schauenburgstraße 11",
+   "z": "76135",
+   "c": "Karlsruhe",
+   "cc": "DE",
+   "ll": [
+    48.98724,
+    8.37214
+   ],
+   "w": "https://mapcarta.com/N11280402688",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Rollerhaus Sascha Dunkelberg",
+   "p": "+4952313031950",
+   "s": "Wittekindstraße 19",
+   "z": "32758",
+   "c": "Detmold",
+   "cc": "DE",
+   "ll": [
+    51.9455,
+    8.86555
+   ],
+   "w": "https://www.golocal.de/detmold/motorraeder/rollerhaus-sascha-dunkelberg-4tNtQ/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Rollerproject-68",
+   "p": "+493616020885",
+   "s": "Löberstraße 17",
+   "z": "99084",
+   "c": "Erfurt",
+   "cc": "DE",
+   "ll": [
+    50.97131,
+    11.03087
+   ],
+   "w": "https://www.rollerproject-68.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "RollerSpot-Stuttgart",
+   "p": "+491733156371",
+   "s": "Epplestraße 90",
+   "z": "70597",
+   "c": "Stuttgart",
+   "cc": "DE",
+   "ll": [
+    48.74092,
+    9.16892
+   ],
+   "w": "https://www.rollerspot-stuttgart.de/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": -1
+  },
+  {
+   "n": "Rori Motorradcenter",
+   "p": "+49222494270",
+   "s": "Umgehungsstraße 4",
+   "z": "53572",
+   "c": "Unkel",
+   "cc": "DE",
+   "ll": [
+    50.60186,
+    7.22192
+   ],
+   "w": "https://www.rori-motorradcenter.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Roß & Wissing Fahrzeugtechnik GmbH",
+   "p": "+4954150583595",
+   "s": "Ridderstraße 17",
+   "z": "48683",
+   "c": "Ahaus",
+   "cc": "DE",
+   "ll": [
+    52.07998,
+    7.01874
+   ],
+   "w": "https://www.presse-service.de/data.aspx/static/1150254.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "RUI's Motorrad Service",
+   "p": "+4974618671",
+   "s": "Altentalstraße 47",
+   "z": "78532",
+   "c": "Tuttlingen",
+   "cc": "DE",
+   "ll": [
+    48.00521,
+    8.87053
+   ],
+   "w": "https://www.rui-s.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Sarl Cycles Soiteur",
+   "p": "+33297830368",
+   "s": "Rue de Belgique 227",
+   "z": "56100",
+   "c": "Lorient",
+   "cc": "FR",
+   "ll": [
+    47.76228,
+    -3.39026
+   ],
+   "w": "https://annuaire-entreprises.data.gouv.fr/entreprise/820026375",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "SAS Garage D'attoma",
+   "p": "+4917624928788",
+   "s": "Rue Docteur Rebatel 20",
+   "z": "69003",
+   "c": "Lyon",
+   "cc": "FR",
+   "ll": [
+    45.74882,
+    4.87288
+   ],
+   "w": "https://mesinfos.fr/consulter-annonces-legales/auvergne-rhone-alpes/69-rhone/sas-garage-dattoma-f366dcc33f65dd8bc1c1a41e34c501ab8b53eb3f",
+   "r": -1
+  },
+  {
+   "n": "Schmucker & Lemli GmbH",
+   "p": "+49293296150",
+   "s": "Cäcilienstraße 1",
+   "z": "59759",
+   "c": "Arnsberg",
+   "cc": "DE",
+   "ll": [
+    51.43627,
+    8.01579
+   ],
+   "w": "https://www.companyhouse.de/en/Schmucker-Lemli-GmbH-Arnsberg",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Scootershop MG",
+   "p": "+31633687980",
+   "s": "Mangaanstraat 50",
+   "z": "2544 DW",
+   "c": "Den Haag",
+   "cc": "NL",
+   "ll": [
+    52.04895,
+    4.25131
+   ],
+   "w": "https://scootershopmg.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Servicecenter Ritzkowski GmbH",
+   "p": "+4938345856816",
+   "s": "An den Bäckerwiesen 2",
+   "z": "17489",
+   "c": "Greifswald",
+   "cc": "DE",
+   "ll": [
+    54.07151,
+    13.38638
+   ],
+   "w": "https://www.boschservicecenter-greifswald.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Stefan Sigwarth GmbH",
+   "p": "+4977718759386",
+   "s": "Gewerbestraße 2",
+   "z": "78333",
+   "c": "Stockach",
+   "cc": "DE",
+   "ll": [
+    47.87333,
+    8.99248
+   ],
+   "w": "https://www.auto-sigwarth.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Steinmetz GmbH",
+   "p": "+498912223436",
+   "s": "Wachtelberg 11",
+   "z": "97273",
+   "c": "Kürnach",
+   "cc": "DE",
+   "ll": [
+    49.84282,
+    10.0157
+   ],
+   "w": "https://www.diesel-center-steinmetz.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Theuerkauf GmbH",
+   "p": "+49613298180",
+   "s": "Hochstraße 48",
+   "z": "55218",
+   "c": "Ingelheim am Rhein",
+   "cc": "DE",
+   "ll": [
+    49.98783,
+    8.0308
+   ],
+   "w": "https://firmania.de/ingelheim/theuerkauf-gmbh-3577182",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "TJ Cars and Bikes",
+   "p": "+4977419692777",
+   "s": "Daimlerstraße 29c",
+   "z": "79761",
+   "c": "Waldshut-Tiengen",
+   "cc": "DE",
+   "ll": [
+    47.62443,
+    8.25332
+   ],
+   "w": "https://www.tj-cars-bikes.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Vakgarage Pheifer",
+   "p": "+31515415825",
+   "s": "Alexanderstraat 12",
+   "z": "8606 VP",
+   "c": "Sneek",
+   "cc": "NL",
+   "ll": [
+    53.02348,
+    5.67572
+   ],
+   "w": "https://www.vakgaragepheifer.nl/",
+   "r": -1
+  },
+  {
+   "n": "Van den Borre BVBA \"Mobility Center VDB\"",
+   "p": "+3225232726",
+   "s": "Avenue François Malherbe - François Malherbelaan 66-68",
+   "z": "1070",
+   "c": "Bruxelles",
+   "cc": "BE",
+   "ll": [
+    50.83936,
+    4.31596
+   ],
+   "w": "https://www.mobilitycentervdb.com/",
+   "r": -1
+  },
+  {
+   "n": "Virage Moto",
+   "p": "+33556989504",
+   "s": "Rue François Arago 27",
+   "z": "33700",
+   "c": "Mérignac",
+   "cc": "FR",
+   "ll": [
+    44.85587,
+    -0.67177
+   ],
+   "w": "https://www.viragemoto.fr/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Vogt Automobile GmbH",
+   "p": "+497171946440",
+   "s": "Alm 28",
+   "z": "77704",
+   "c": "Oberkirch",
+   "cc": "DE",
+   "ll": [
+    48.50842,
+    8.09056
+   ],
+   "w": "https://vogt-automobile.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Werkstatt BCS Karl Wahl Heide Inh. Ingo Dohrn",
+   "p": "+494815475",
+   "s": "Hamburger Straße 43",
+   "z": "25746",
+   "c": "Heide",
+   "cc": "DE",
+   "ll": [
+    54.19518,
+    9.1019
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstattfinder/autowerkstatt-heide/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "WingTeam - Achim Geidel",
+   "p": "+491726224078",
+   "s": "Im Oberdorf 22",
+   "z": "67744",
+   "c": "Homberg",
+   "cc": "DE",
+   "ll": [
+    49.65028,
+    7.51837
+   ],
+   "w": "http://www.wingteam.de/",
+   "r": -1
+  },
+  {
+   "n": "Wolf Trade Center",
+   "p": "+436643429088",
+   "s": "Wiener Straße 241",
+   "z": "8051",
+   "c": "Graz",
+   "cc": "AT",
+   "ll": [
+    47.09216,
+    15.40647
+   ],
+   "w": "https://wolf-tradecenter.at/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "WVM Mobility",
+   "p": "+31619638152",
+   "s": "Tinnegieterstraat 13",
+   "z": "2645 LX",
+   "c": "Delfgauw",
+   "cc": "NL",
+   "ll": [
+    51.99789,
+    4.39146
+   ],
+   "w": "https://wvm-mobility.nl/",
+   "v": "2026-09-11",
+   "d": 1,
+   "r": 1
+  },
+  {
+   "n": "Wöhrle GmbH",
+   "p": "+491636410736",
+   "s": "Heisinger Straße 19a",
+   "z": "87437",
+   "c": "Kempten",
+   "cc": "DE",
+   "ll": [
+    47.76198,
+    10.32789
+   ],
+   "w": "https://www.woehrle.de/en/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zweirad Deutschmann",
+   "p": "+49383932927",
+   "s": "Proraer Chaussee 4a",
+   "z": "18609",
+   "c": "Binz",
+   "cc": "DE",
+   "ll": [
+    54.40229,
+    13.60342
+   ],
+   "w": "https://www.raymon-bicycles.com/en/Deutschmann-Zweirad-Deutschmann-Ostseebad-Binz",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zweirad Stannek",
+   "p": "+493338759843",
+   "s": "Im Blumenhag 28",
+   "z": "16321",
+   "c": "Bernau",
+   "cc": "DE",
+   "ll": [
+    52.67846,
+    13.57224
+   ],
+   "w": "https://www.zweirad-stannek.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zweirad Station",
+   "p": "+498456918779",
+   "s": "Rosenweg 6",
+   "z": "85101",
+   "c": "Lenting",
+   "cc": "DE",
+   "ll": [
+    48.80505,
+    11.45715
+   ],
+   "w": "https://www.zweirad-station.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zweirad Technik Berlin",
+   "p": "+493060031271",
+   "s": "Hasenheide 9",
+   "z": "10967",
+   "c": "Berlin",
+   "cc": "DE",
+   "w": "https://firmania.de/berlin/zweirad-technik-berlin-714262",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zweirad-Stumpp (Friedrich Stumpp)",
+   "p": "+4970247012",
+   "s": "Fabrikstraße 4",
+   "z": "73240",
+   "c": "Wendlingen",
+   "cc": "DE",
+   "ll": [
+    48.67501,
+    9.38397
+   ],
+   "w": "https://www.zweirad-stumpp.com/",
+   "r": -1
+  },
+  {
+   "n": "Zweiradservice Lehn",
+   "p": "+496131681258",
+   "s": "An der Brunnenstube 27-31",
+   "z": "55120",
+   "c": "Mainz",
+   "cc": "DE",
+   "ll": [
+    50.01444,
+    8.22781
+   ],
+   "w": "https://www.wir-kaufen-dein-motorrad.de/motorradhaendler/motorrad-verkaufen-mainz-ankauf/zweiradservice-lehn/",
+   "v": "2026-09-11",
+   "r": -1
+  }
+ ]
+}

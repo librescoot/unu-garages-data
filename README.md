@@ -1,84 +1,62 @@
-# unustasis-data
+# unu-garages-data
 
-Self-hosted service partner garage data for [unustasis](https://github.com/reunu/unustasis).
+Curated list of garages that service unu electric scooters. Used by:
 
-Tracks upstream data from unumotors.com, applies our overrides, and publishes the result via GitHub Pages at:
+- [unustasis](https://github.com/reunu/unustasis), the unofficial unu app
+- the [Librescoot](https://github.com/librescoot) mobile app
 
-```
-https://reunu.github.io/unustasis-data/garages.json
-```
+Published via GitHub Pages:
 
-## How It Works
+- rendered list: `https://librescoot.org/garages/` (built in the homepage repo)
+- data: `https://librescoot.org/unu-garages-data/garages_v2.json`
+- schema: `https://librescoot.org/unu-garages-data/schema.json`
+
+All entries are verified by hand against first-party sources (the garage's own website, or
+direct contact). Unverified entries are included but flagged.
+
+## Files
 
 | File | Purpose |
 |------|---------|
-| `garages_upstream.json` | Original data from unumotors.com (~179 garages) |
-| `garages_overrides.json` | Our modifications (updates, removals, additions) |
-| `merge-overrides.jq` | Merge script: applies overrides to upstream |
-| `garages.json` | Generated output, published via GitHub Pages |
+| `garages-source.json` | Full curated dataset, including unverified entries |
+| `garages_v2.json` | Published output: confirmed repair shops and official unu dealers |
+| `index.html`, `garages.html`, `garages-de.html` | Redirect stubs to the homepage list |
+| `schema.json` | JSON Schema (draft 2020-12) documenting the format |
+| `build.py` | Generates `garages_v2.json` and the redirect stubs from `garages-source.json` |
 
-A weekly CI workflow fetches the latest upstream data, applies overrides, and commits if anything changed. Can also be triggered manually via workflow_dispatch.
+## Format
 
-## Override Format
+Entries are short-key objects. `schema.json` is the authoritative definition.
 
-Three operations, all using a `match` object to identify garages by any field(s):
+| Key | Meaning |
+|-----|---------|
+| `n` | Garage name |
+| `p` | Phone in E.164 (`+49...`) |
+| `s` | Street and house number |
+| `z` | Postal code |
+| `c` | City |
+| `cc` | ISO 3166-1 alpha-2 country code |
+| `ll` | `[lat, lng]` in WGS84, rounded to 5 decimals |
+| `w` | Garage homepage |
+| `r` | Confirmed unu repairs: `1` yes, `0` no, `-1` unknown |
+| `d` | Official unu dealer: `1` yes, `0` no |
+| `v` | Last verification date (ISO 8601) |
 
-### Update
+Addresses are street, postal code, city. Street names use canonical local spelling
+(`Cäcilienstraße 1`, not `Cäcilienstr. 1`). Coordinates are rounded to about one meter.
 
-```json
-{
-  "operation": "update",
-  "match": { "name": "Fa. Wilhelm Fahrzeugtechnik" },
-  "garage": {
-    "name": "Fa. Wilhelm Zweiradtechnik",
-    "Phone": "+49 175 222 99 77",
-    "ShippingStreet": "General-Pape-Straße 8",
-    "ShippingCity": "Berlin",
-    "ShippingPostalCode": "12101",
-    "ShippingCountry": "Germany",
-    "ShippingCountryCode": "DE",
-    "ShippingLatitude": "52.47627980463747",
-    "ShippingLongitude": "13.367350417613736",
-    "status": ""
-  }
-}
-```
+`r: 1` means the garage is confirmed to accept unu repairs. `r: -1` means unconfirmed, which
+includes garages whose website shows no unu reference. `d: 1` marks official unu dealers.
 
-Match on multiple fields when names aren't unique:
+## License
 
-```json
-{ "match": { "name": "Scooter Shop", "ShippingCity": "Berlin" } }
-```
+The data is licensed under the [Open Data Commons Open Database License
+(ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/). Anyone using or deriving from
+this database must attribute the Librescoot project and share derived databases under the
+same terms. See `LICENSE`.
 
-### Remove
+## Maintenance
 
-```json
-{
-  "operation": "remove",
-  "match": { "name": "Closed Garage Name" }
-}
-```
-
-### Add
-
-```json
-{
-  "operation": "add",
-  "garage": {
-    "name": "New Garage Name",
-    "Phone": "+49 30 12345678",
-    "ShippingStreet": "Example Street 123",
-    "ShippingCity": "Berlin",
-    "ShippingPostalCode": "10115",
-    "ShippingCountry": "Germany",
-    "ShippingCountryCode": "DE",
-    "ShippingLatitude": "52.5200",
-    "ShippingLongitude": "13.4050",
-    "status": ""
-  }
-}
-```
-
-## Reporting Outdated Information
-
-Notice incorrect garage details? [Open an issue](https://github.com/reunu/unustasis-data/issues/new/choose) using the "Outdated Garage Information" template.
+Edit `garages-source.json`, run `python3 build.py`, commit the generated files. CI rebuilds
+to verify the committed output is current, validates against `schema.json`, and deploys to
+Pages on push. (CI does not commit by itself; generated files must be committed by hand.)

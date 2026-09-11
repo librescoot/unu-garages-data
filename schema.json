@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://librescoot.org/unu-garages-data/schema.json",
+  "title": "unu garages v2",
+  "description": "Curated list of garages that service unu electric scooters. Short-key encoding: n=name, p=phone (E.164), s=street and house number, z=postal code, c=city, cc=ISO 3166-1 alpha-2 country code, ll=[lat,lng] WGS84, w=website, d=official unu dealer, r=confirmed unu repairs (-1 unknown, 0 no, 1 yes), v=verification date. garages_v2.json contains only confirmed-accepting garages (st omitted); garages-source.json contains all entries with st.",
+  "type": "object",
+  "required": [
+    "garages"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "garages": {
+      "$ref": "#/$defs/garages"
+    }
+  },
+  "$defs": {
+    "garages": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/garage"
+      }
+    },
+    "garage": {
+      "type": "object",
+      "required": [
+        "n",
+        "s",
+        "z",
+        "c",
+        "cc"
+      ],
+      "properties": {
+        "n": {
+          "type": "string",
+          "description": "Garage name"
+        },
+        "p": {
+          "type": "string",
+          "pattern": "^\\+[0-9]{4,15}$",
+          "description": "Phone number in E.164 format"
+        },
+        "s": {
+          "type": "string",
+          "description": "Street and house number (canonical local spelling)"
+        },
+        "z": {
+          "type": "string",
+          "description": "Postal code (string: NL/CH/etc. contain letters; leading zeros preserved)"
+        },
+        "c": {
+          "type": "string",
+          "description": "City (canonical postal city, without district suffixes)"
+        },
+        "cc": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "ISO 3166-1 alpha-2 country code"
+        },
+        "ll": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "[latitude, longitude] in WGS84, rounded to 5 decimals (~1 m)"
+        },
+        "w": {
+          "type": "string",
+          "format": "uri",
+          "description": "Garage homepage (first-party where possible)"
+        },
+        "d": {
+          "type": "integer",
+          "enum": [
+            1,
+            0
+          ],
+          "default": 0,
+          "description": "Official unu dealer: 1=yes, 0=no. Only present on published entries when 1."
+        },
+        "v": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of last verification (ISO 8601)"
+        },
+        "r": {
+          "type": "integer",
+          "enum": [
+            1,
+            0,
+            -1
+          ],
+          "description": "Confirmed unu repair service: 1=yes, 0=no, -1=unknown. Published garages_v2.json contains entries with r=1 or d=true; r may be omitted there when 1? no - kept.",
+          "default": -1
+        },
+        "lp": {
+          "type": "integer",
+          "enum": [
+            1,
+            0
+          ],
+          "default": 0,
+          "description": "Librescoot partner garage: 1=yes, 0=no. Only present on published entries when 1."
+        }
+      }
+    }
+  }
+}
