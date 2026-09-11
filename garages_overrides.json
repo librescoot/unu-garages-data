@@ -42,14 +42,11 @@
     "verified": "2026-02-09"
   },
   {
-    "operation": "update",
+    "operation": "remove",
     "match": { "name": "BCS Mezger GmbH & Co. KG Leipzig" },
-    "garage": {
-      "ShippingPostalCode": "04179"
-    },
-    "reason": "Postal code missing leading zero. Verified correct PLZ from Bosch Car Service listing.",
-    "source": "https://www.boschcarservice.com/de/de/werkstatt/mezger-leipzig/",
-    "verified": "2026-02-09"
+    "reason": "No longer services unu scooters.",
+    "source": "Direct contact",
+    "verified": "2026-09-11"
   },
   {
     "operation": "update",
