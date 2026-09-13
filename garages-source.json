@@ -1284,6 +1284,22 @@
    "r": -1
   },
   {
+   "n": "emco & UNU Store",
+   "p": "+4915165926397",
+   "s": "Elisabethstraße 47",
+   "z": "80796",
+   "c": "München",
+   "cc": "DE",
+   "ll": [
+    48.15944,
+    11.56463
+   ],
+   "w": "https://unumotors.com/de-at/unu-by-emco/",
+   "v": "2026-09-13",
+   "d": 1,
+   "r": -1
+  },
+  {
    "n": "EBike Frischmann",
    "p": "+4917643442583",
    "s": "Brunhamstraße 21",
@@ -1412,21 +1428,6 @@
     11.43261
    ],
    "w": "https://www.falch.co.at/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "FB-Motorrad GmbH",
-   "p": "+49617241091",
-   "s": "Hans-Mess-Straße 17",
-   "z": "61440",
-   "c": "Oberursel (Taunus)",
-   "cc": "DE",
-   "ll": [
-    50.22184,
-    8.57888
-   ],
-   "w": "https://www.fb-motorrad.de/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1567,18 +1568,19 @@
    "r": -1
   },
   {
-   "n": "Häusler Automobil GmbH & Co. KG-München",
-   "p": "+498945213730",
-   "s": "Wotanstraße 35",
-   "z": "80639",
+   "n": "Häusler Automobil GmbH & Co. KG – Neuaubing",
+   "p": "+49898932800",
+   "s": "Bodenseestraße 257",
+   "z": "81249",
    "c": "München",
    "cc": "DE",
    "ll": [
-    48.1489,
-    11.5015
+    48.1421,
+    11.4213
    ],
-   "w": "https://www.haeusler-automobil-gmbh.de/service",
-   "v": "2026-09-11",
+   "w": "https://www.haeusler-automobil-gmbh.de/standorte/neuaubing",
+   "v": "2026-09-13",
+   "d": 1,
    "r": -1
   },
   {
