@@ -106,6 +106,17 @@
           "default": "all",
           "description": "New-customer access: all=accepts new customers, existing=existing customers only (Bestandskunden). Only present on published entries when 'existing'."
         },
+        "src": {
+          "type": "string",
+          "enum": [
+            "research",
+            "community",
+            "garage",
+            "official"
+          ],
+          "default": "research",
+          "description": "Where the entry's data came from: research=Librescoot's own check against first-party sources, community=a user or community report, garage=stated by the garage itself, official=an official unu/emco dealer listing. Only present on published entries when not 'research'."
+        },
         "lp": {
           "type": "integer",
           "enum": [

@@ -173,7 +173,8 @@
    ],
    "w": "https://bosch-service-holtz.de/",
    "v": "2026-09-20",
-   "r": 1
+   "r": 1,
+   "src": "community"
   },
   {
    "n": "Auto-Planet AG",
@@ -1027,7 +1028,8 @@
    ],
    "w": "https://ebike-frischmann.de/",
    "v": "2026-09-20",
-   "r": 1
+   "r": 1,
+   "src": "community"
   },
   {
    "n": "Edgar Hirz GmbH & Co. KG",
@@ -1281,7 +1283,8 @@
    "w": "https://rial.de/store/hans-w-schroeder-ohg-bosch-service/",
    "v": "2026-09-20",
    "r": 1,
-   "a": "existing"
+   "a": "existing",
+   "src": "community"
   },
   {
    "n": "Herbert Wilke KFZ",
@@ -1700,7 +1703,8 @@
    ],
    "w": "https://www.bikes4sale.com/new-bike-showrooms/dealer/unu/germany/dresden/21283/bcs-dresden-mezger-gmbh-co-kg",
    "v": "2026-09-20",
-   "r": 1
+   "r": 1,
+   "src": "community"
   },
   {
    "n": "Mezger Halle GmbH + Co. KG",
