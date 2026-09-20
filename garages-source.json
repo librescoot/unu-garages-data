@@ -2299,7 +2299,7 @@
    "r": -1
   },
   {
-   "n": "Sen Automobile",
+   "n": "Sen Automobile Inh. Haydar Sen",
    "p": "+497531694391",
    "s": "Maybachstraße 4a",
    "z": "78467",
@@ -2310,7 +2310,8 @@
     9.15247
    ],
    "w": "https://www.bcs-konstanz.com/",
-   "r": 0
+   "r": 0,
+   "v": "2026-09-20"
   },
   {
    "n": "Servicecenter Ritzkowski GmbH",
