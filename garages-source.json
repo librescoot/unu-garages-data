@@ -131,6 +131,21 @@
    "r": -1
   },
   {
+   "n": "Auto Katz",
+   "p": "+49511575026",
+   "s": "Hannoversche Straße 128",
+   "z": "30627",
+   "c": "Hannover",
+   "cc": "DE",
+   "ll": [
+    52.3848,
+    9.82723
+   ],
+   "w": "https://autokatz.de/team.html",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Auto Weinert Kfz-Meisterwerkstatt",
    "p": "+498146945100",
    "s": "Gewerbering 14",
@@ -157,8 +172,8 @@
     13.32018
    ],
    "w": "https://bosch-service-holtz.de/",
-   "v": "2026-09-11",
-   "r": -1
+   "v": "2026-09-20",
+   "r": 1
   },
   {
    "n": "Auto-Planet AG",
@@ -252,6 +267,20 @@
    "r": -1
   },
   {
+   "n": "Autohaus Sorg GmbH",
+   "p": "+4971719098280",
+   "s": "Lorcher Straße 38",
+   "z": "73525",
+   "c": "Schwäbisch Gmünd",
+   "cc": "DE",
+   "ll": [
+    48.79908,
+    9.785
+   ],
+   "w": "https://www.autohaussorg.de/",
+   "r": -1
+  },
+  {
    "n": "Autohaus Stieber GmbH",
    "p": "+4971180609427",
    "s": "Emerholzweg 5",
@@ -263,6 +292,21 @@
     9.15052
    ],
    "w": "https://www.autohaus-stieber.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Autohaus Tehrani",
+   "p": "+493322232838",
+   "s": "Krefelder Straße 5",
+   "z": "14612",
+   "c": "Falkensee",
+   "cc": "DE",
+   "ll": [
+    52.56267,
+    13.11626
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/tehrani-falkensee/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -296,7 +340,7 @@
    "r": -1
   },
   {
-   "n": "Autotechnik Janssen BCS",
+   "n": "Autotechnik Adwin Janssen",
    "p": "+496131507026",
    "s": "Wilhelm-Maybach-Straße 17",
    "z": "55129",
@@ -353,379 +397,6 @@
     9.15779
    ],
    "w": "https://bl-fahrzeugtechnik.de/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS & Sen Automobile",
-   "p": "+497531694391",
-   "s": "Maybachstraße 4a",
-   "z": "78467",
-   "c": "Konstanz",
-   "cc": "DE",
-   "ll": [
-    47.67729,
-    9.15247
-   ],
-   "w": "https://www.bcs-konstanz.com/",
-   "r": 0
-  },
-  {
-   "n": "BCS Auto Katz",
-   "p": "+49511575026",
-   "s": "Hannoversche Straße 128",
-   "z": "30627",
-   "c": "Hannover",
-   "cc": "DE",
-   "ll": [
-    52.3848,
-    9.82723
-   ],
-   "w": "https://autokatz.de/team.html",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Autohaus Sorg",
-   "p": "+4971719098280",
-   "s": "Lorcher Straße 38",
-   "z": "73525",
-   "c": "Schwäbisch Gmünd",
-   "cc": "DE",
-   "ll": [
-    48.79908,
-    9.785
-   ],
-   "w": "https://www.autohaussorg.de/",
-   "r": -1
-  },
-  {
-   "n": "BCS Bremen Seelig GmbH&Co.KG",
-   "p": "+49421499990",
-   "s": "Große Sortillenstraße 32",
-   "z": "28195",
-   "c": "Bremen",
-   "cc": "DE",
-   "ll": [
-    53.0793,
-    8.80169
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/seelig-bremen/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Brünker&Heinemann GmbH",
-   "p": "+49221386331",
-   "s": "Bonner Wall 39",
-   "z": "50677",
-   "c": "Köln",
-   "cc": "DE",
-   "ll": [
-    50.91772,
-    6.94958
-   ],
-   "w": "https://tisto.net/partner/bcs-bruenkerheinemann-gmbh/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Christl Noack",
-   "p": "+4974714177",
-   "s": "Daimlerstraße 7",
-   "z": "72379",
-   "c": "Hechingen",
-   "cc": "DE",
-   "ll": [
-    48.36645,
-    8.96375
-   ],
-   "w": "https://www.elektroroller-forum.de/viewtopic.php?t=40892",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Deschler GmbH",
-   "p": "+4978317200",
-   "s": "Crailsheimer Straße 65",
-   "z": "74523",
-   "c": "Schwaebisch Hall",
-   "cc": "DE",
-   "ll": [
-    49.11883,
-    9.74924
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/deschler-schwaebisch-hall/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Dresden Mezger GmbH&Co KG",
-   "p": "+49351876750",
-   "s": "Wiener Straße 45",
-   "z": "01219",
-   "c": "Dresden",
-   "cc": "DE",
-   "ll": [
-    51.03533,
-    13.75117
-   ],
-   "w": "https://www.bikes4sale.com/new-bike-showrooms/dealer/unu/germany/dresden/21283/bcs-dresden-mezger-gmbh-co-kg",
-   "v": "2026-09-20",
-   "r": 1
-  },
-  {
-   "n": "BCS Ergolding Stangl KG",
-   "p": "+4987173332",
-   "s": "Meisenstraße 22",
-   "z": "84030",
-   "c": "Ergolding",
-   "cc": "DE",
-   "ll": [
-    48.55921,
-    12.1569
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/stangl-la/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Falkensee Autohaus Tehrani",
-   "p": "+493322232838",
-   "s": "Krefelder Straße 5",
-   "z": "14612",
-   "c": "Falkensee",
-   "cc": "DE",
-   "ll": [
-    52.56267,
-    13.11626
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/tehrani-falkensee/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Fuchs GmbH Fuerth",
-   "p": "+499117849081",
-   "s": "Georg-Benda-Straße 7",
-   "z": "90763",
-   "c": "Fürth",
-   "cc": "DE",
-   "ll": [
-    49.44652,
-    10.9948
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/fuchs-fuerth/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Hirz GmbH & Co.KG",
-   "p": "+4975715885",
-   "s": "Gorheimer Straße 25",
-   "z": "72488",
-   "c": "Sigmaringen",
-   "cc": "DE",
-   "ll": [
-    48.08859,
-    9.19848
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/hirz-sigmaringen/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Höchberg Mezger GmbH",
-   "p": "+499314978241",
-   "s": "Einsteinstraße 2",
-   "z": "97204",
-   "c": "Höchberg",
-   "cc": "DE",
-   "ll": [
-    49.773,
-    9.87061
-   ],
-   "w": "https://www.mezger.de/wuerzburg-hoechberg/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Kfr Schwirtlich GmbH",
-   "p": "+4980615522",
-   "s": "Daimlerstraße 1",
-   "z": "83043",
-   "c": "Bad Aibling",
-   "cc": "DE",
-   "ll": [
-    47.87267,
-    12.01508
-   ],
-   "w": "https://www.kfz-schwirtlich.de/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Kfz-Technik Wickfelder",
-   "p": "+4991855108",
-   "s": "Freiburger Straße 43",
-   "z": "88400",
-   "c": "Biberach",
-   "cc": "DE",
-   "ll": [
-    48.10668,
-    9.79317
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/dw-wickfelder-biberach/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Krefeld R. Treeker",
-   "p": "+492151155700",
-   "s": "Emil-Schäfer-Straße 75-77",
-   "z": "47800",
-   "c": "Krefeld",
-   "cc": "DE",
-   "ll": [
-    51.35467,
-    6.62322
-   ],
-   "w": "https://www.treeker.de/bosch-carservice-krefeld/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Lörrach Grimmeisen & Co GmbH",
-   "p": "+49762193270",
-   "s": "Brombacher Straße 87",
-   "z": "79539",
-   "c": "Lörrach",
-   "cc": "DE",
-   "ll": [
-    47.62354,
-    7.67554
-   ],
-   "w": "https://grimmeisen.org/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Marseglia GmbH",
-   "p": "+491754243133",
-   "s": "Großeislinger Straße 54",
-   "z": "73033",
-   "c": "Göppingen",
-   "cc": "DE",
-   "ll": [
-    48.70189,
-    9.67144
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/marseglia-goeppingen/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Metzinger GmbH",
-   "p": "+49681992670",
-   "s": "Koblenzer Straße 62",
-   "z": "66115",
-   "c": "Saarbrücken",
-   "cc": "DE",
-   "ll": [
-    49.24139,
-    6.93957
-   ],
-   "w": "https://boschservice-metzinger.de/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Mezger GmbH Bergtheim",
-   "p": "+499721655154",
-   "s": "Am Bergl 17 1/2",
-   "z": "97424",
-   "c": "Bergtheim",
-   "cc": "DE",
-   "ll": [
-    50.03841,
-    10.20662
-   ],
-   "w": "https://www.mezger.de/mezger/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Osse GmbH",
-   "p": "+493641282881",
-   "s": "Damaschkeweg 65",
-   "z": "07745",
-   "c": "Jena",
-   "cc": "DE",
-   "ll": [
-    50.89996,
-    11.58538
-   ],
-   "w": "https://www.boschcarservice.com/de/de/werkstatt/osse-damaschkeweg-jena/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Ralf Schlebusch e.K.",
-   "p": "+492361306870",
-   "s": "Zum Wetterschacht 15",
-   "z": "45659",
-   "c": "Recklinghausen",
-   "cc": "DE",
-   "ll": [
-    51.59896,
-    7.19302
-   ],
-   "w": "https://www.bosch-service-schlebusch.de/de/start",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Schweinfurt Mezger GmbH&CoKG",
-   "p": "+499721655154",
-   "s": "Sven-Wingquist-Straße 2",
-   "z": "97424",
-   "c": "Schweinfurt",
-   "cc": "DE",
-   "ll": [
-    50.03034,
-    10.2299
-   ],
-   "w": "https://www.mezger.de/schweinfurt/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Wagener Technik GmbH",
-   "p": "+495619587150",
-   "s": "Falderbaumstraße 25",
-   "z": "34123",
-   "c": "Kassel",
-   "cc": "DE",
-   "ll": [
-    51.27771,
-    9.5011
-   ],
-   "w": "https://www.wagener-technik.de/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
-   "n": "BCS Zitta Robert e.U.",
-   "p": "+43732650000",
-   "s": "Hollabererstraße 5",
-   "z": "4020",
-   "c": "Linz",
-   "cc": "AT",
-   "ll": [
-    48.3014,
-    14.32726
-   ],
-   "w": "https://kfz-zitta.at/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1015,6 +686,21 @@
    "r": -1
   },
   {
+   "n": "Brünker & Heinemann GmbH",
+   "p": "+49221386331",
+   "s": "Bonner Wall 39",
+   "z": "50677",
+   "c": "Köln",
+   "cc": "DE",
+   "ll": [
+    50.91772,
+    6.94958
+   ],
+   "w": "https://tisto.net/partner/bcs-bruenkerheinemann-gmbh/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Car systems Scheil GmbH & Co. KG",
    "p": "+493415830580",
    "s": "Zum Apelstein 2",
@@ -1041,6 +727,21 @@
     6.88848
    ],
    "w": "https://www.cardoc-oberhausen.com/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Christl Noack",
+   "p": "+4974714177",
+   "s": "Daimlerstraße 7",
+   "z": "72379",
+   "c": "Hechingen",
+   "cc": "DE",
+   "ll": [
+    48.36645,
+    8.96375
+   ],
+   "w": "https://www.elektroroller-forum.de/viewtopic.php?t=40892",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1101,6 +802,21 @@
     12.94267
    ],
    "w": "https://deinleinkrad.info/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Deschler GmbH",
+   "p": "+4978317200",
+   "s": "Crailsheimer Straße 65",
+   "z": "74523",
+   "c": "Schwaebisch Hall",
+   "cc": "DE",
+   "ll": [
+    49.11883,
+    9.74924
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/deschler-schwaebisch-hall/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1284,20 +1000,19 @@
    "r": -1
   },
   {
-   "n": "emco & UNU Store",
-   "p": "+4915165926397",
-   "s": "Elisabethstraße 47",
-   "z": "80796",
-   "c": "München",
+   "n": "DW Wickfelder GmbH",
+   "p": "+4991855108",
+   "s": "Freiburger Straße 43",
+   "z": "88400",
+   "c": "Biberach",
    "cc": "DE",
    "ll": [
-    48.15944,
-    11.56463
+    48.10668,
+    9.79317
    ],
-   "w": "https://unumotors.com/de-at/unu-by-emco/",
-   "v": "2026-09-19",
-   "d": 1,
-   "r": 1
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/dw-wickfelder-biberach/",
+   "v": "2026-09-11",
+   "r": -1
   },
   {
    "n": "EBike Frischmann",
@@ -1312,6 +1027,37 @@
    ],
    "w": "https://ebike-frischmann.de/",
    "v": "2026-09-20",
+   "r": 1
+  },
+  {
+   "n": "Edgar Hirz GmbH & Co. KG",
+   "p": "+4975715885",
+   "s": "Gorheimer Straße 25",
+   "z": "72488",
+   "c": "Sigmaringen",
+   "cc": "DE",
+   "ll": [
+    48.08859,
+    9.19848
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/hirz-sigmaringen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "emco & UNU Store",
+   "p": "+4915165926397",
+   "s": "Elisabethstraße 47",
+   "z": "80796",
+   "c": "München",
+   "cc": "DE",
+   "ll": [
+    48.15944,
+    11.56463
+   ],
+   "w": "https://unumotors.com/de-at/unu-by-emco/",
+   "v": "2026-09-19",
+   "d": 1,
    "r": 1
   },
   {
@@ -1432,6 +1178,21 @@
    "r": -1
   },
   {
+   "n": "Fuchs GmbH",
+   "p": "+499117849081",
+   "s": "Georg-Benda-Straße 7",
+   "z": "90763",
+   "c": "Fürth",
+   "cc": "DE",
+   "ll": [
+    49.44652,
+    10.9948
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/fuchs-fuerth/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "G. W. Fischer GmbH",
    "p": "+49605192380",
    "s": "Büdinger Straße 9",
@@ -1488,6 +1249,21 @@
     5.15042
    ],
    "w": "https://www.gooisescooter.nl/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Grimmeisen & Co. GmbH",
+   "p": "+49762193270",
+   "s": "Brombacher Straße 87",
+   "z": "79539",
+   "c": "Lörrach",
+   "cc": "DE",
+   "ll": [
+    47.62354,
+    7.67554
+   ],
+   "w": "https://grimmeisen.org/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1549,6 +1325,21 @@
     9.96302
    ],
    "w": "https://hornburg.bike/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Horst Metzinger GmbH",
+   "p": "+49681992670",
+   "s": "Koblenzer Straße 62",
+   "z": "66115",
+   "c": "Saarbrücken",
+   "cc": "DE",
+   "ll": [
+    49.24139,
+    6.93957
+   ],
+   "w": "https://boschservice-metzinger.de/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -1705,6 +1496,21 @@
    "r": -1
   },
   {
+   "n": "Kfz Schwirtlich GmbH",
+   "p": "+4980615522",
+   "s": "Daimlerstraße 1",
+   "z": "83043",
+   "c": "Bad Aibling",
+   "cc": "DE",
+   "ll": [
+    47.87267,
+    12.01508
+   ],
+   "w": "https://www.kfz-schwirtlich.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Kfz-Meisterbetrieb Gerdinand & Stemmwedel GbR",
    "p": "+493816672121",
    "s": "Neue Reihe 19",
@@ -1837,6 +1643,21 @@
    "r": -1
   },
   {
+   "n": "Marseglia GmbH",
+   "p": "+491754243133",
+   "s": "Großeislinger Straße 54",
+   "z": "73033",
+   "c": "Göppingen",
+   "cc": "DE",
+   "ll": [
+    48.70189,
+    9.67144
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/marseglia-goeppingen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Mekabike Lyon",
    "p": "+33478603988",
    "s": "Avenue Maréchal de Saxe 127",
@@ -1852,6 +1673,36 @@
    "r": -1
   },
   {
+   "n": "Mezger Bergtheim GmbH",
+   "p": "+499721655154",
+   "s": "Am Bergl 17 1/2",
+   "z": "97424",
+   "c": "Bergtheim",
+   "cc": "DE",
+   "ll": [
+    50.03841,
+    10.20662
+   ],
+   "w": "https://www.mezger.de/mezger/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mezger Dresden GmbH + Co. KG",
+   "p": "+49351876750",
+   "s": "Wiener Straße 45",
+   "z": "01219",
+   "c": "Dresden",
+   "cc": "DE",
+   "ll": [
+    51.03533,
+    13.75117
+   ],
+   "w": "https://www.bikes4sale.com/new-bike-showrooms/dealer/unu/germany/dresden/21283/bcs-dresden-mezger-gmbh-co-kg",
+   "v": "2026-09-20",
+   "r": 1
+  },
+  {
    "n": "Mezger Halle GmbH + Co. KG",
    "p": "+4934557541630",
    "s": "Berliner Straße 61",
@@ -1863,6 +1714,36 @@
     12.00952
    ],
    "w": "https://www.mezger.de/halle-berliner-strasse/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mezger Höchberg GmbH",
+   "p": "+499314978241",
+   "s": "Einsteinstraße 2",
+   "z": "97204",
+   "c": "Höchberg",
+   "cc": "DE",
+   "ll": [
+    49.773,
+    9.87061
+   ],
+   "w": "https://www.mezger.de/wuerzburg-hoechberg/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Mezger Schweinfurt GmbH + Co. KG",
+   "p": "+499721655154",
+   "s": "Sven-Wingquist-Straße 2",
+   "z": "97424",
+   "c": "Schweinfurt",
+   "cc": "DE",
+   "ll": [
+    50.03034,
+    10.2299
+   ],
+   "w": "https://www.mezger.de/schweinfurt/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -2077,6 +1958,21 @@
    "r": -1
   },
   {
+   "n": "Osse GmbH",
+   "p": "+493641282881",
+   "s": "Damaschkeweg 65",
+   "z": "07745",
+   "c": "Jena",
+   "cc": "DE",
+   "ll": [
+    50.89996,
+    11.58538
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/osse-damaschkeweg-jena/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Paulus Technik GmbH & Co. KG",
    "p": "+4943178000",
    "s": "Preetzer straße 304",
@@ -2158,6 +2054,21 @@
     6.5472
    ],
    "w": "https://jeromin-kfz.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Ralph Treeker",
+   "p": "+492151155700",
+   "s": "Emil-Schäfer-Straße 75-77",
+   "z": "47800",
+   "c": "Krefeld",
+   "cc": "DE",
+   "ll": [
+    51.35467,
+    6.62322
+   ],
+   "w": "https://www.treeker.de/bosch-carservice-krefeld/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -2328,6 +2239,21 @@
    "r": -1
   },
   {
+   "n": "Schlebusch e.K.",
+   "p": "+492361306870",
+   "s": "Zum Wetterschacht 15",
+   "z": "45659",
+   "c": "Recklinghausen",
+   "cc": "DE",
+   "ll": [
+    51.59896,
+    7.19302
+   ],
+   "w": "https://www.bosch-service-schlebusch.de/de/start",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Schmucker & Lemli GmbH",
    "p": "+49293296150",
    "s": "Cäcilienstraße 1",
@@ -2358,6 +2284,35 @@
    "r": -1
   },
   {
+   "n": "Seelig GmbH & Co. KG",
+   "p": "+49421499990",
+   "s": "Große Sortillenstraße 32",
+   "z": "28195",
+   "c": "Bremen",
+   "cc": "DE",
+   "ll": [
+    53.0793,
+    8.80169
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/seelig-bremen/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Sen Automobile",
+   "p": "+497531694391",
+   "s": "Maybachstraße 4a",
+   "z": "78467",
+   "c": "Konstanz",
+   "cc": "DE",
+   "ll": [
+    47.67729,
+    9.15247
+   ],
+   "w": "https://www.bcs-konstanz.com/",
+   "r": 0
+  },
+  {
    "n": "Servicecenter Ritzkowski GmbH",
    "p": "+4938345856816",
    "s": "An den Bäckerwiesen 2",
@@ -2369,6 +2324,21 @@
     13.38638
    ],
    "w": "https://www.boschservicecenter-greifswald.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Stangl KG",
+   "p": "+4987173332",
+   "s": "Meisenstraße 22",
+   "z": "84030",
+   "c": "Ergolding",
+   "cc": "DE",
+   "ll": [
+    48.55921,
+    12.1569
+   ],
+   "w": "https://www.boschcarservice.com/de/de/werkstatt/stangl-la/",
    "v": "2026-09-11",
    "r": -1
   },
@@ -2491,7 +2461,22 @@
    "r": -1
   },
   {
-   "n": "Werkstatt BCS Karl Wahl Heide Inh. Ingo Dohrn",
+   "n": "Wagener Technik GmbH",
+   "p": "+495619587150",
+   "s": "Falderbaumstraße 25",
+   "z": "34123",
+   "c": "Kassel",
+   "cc": "DE",
+   "ll": [
+    51.27771,
+    9.5011
+   ],
+   "w": "https://www.wagener-technik.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Werkstatt Karl Wahl Heide Inh. Ingo Dohrn",
    "p": "+494815475",
    "s": "Hamburger Straße 43",
    "z": "25746",
@@ -2562,6 +2547,21 @@
     10.32789
    ],
    "w": "https://www.woehrle.de/en/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
+   "n": "Zitta Robert e.U.",
+   "p": "+43732650000",
+   "s": "Hollabererstraße 5",
+   "z": "4020",
+   "c": "Linz",
+   "cc": "AT",
+   "ll": [
+    48.3014,
+    14.32726
+   ],
+   "w": "https://kfz-zitta.at/",
    "v": "2026-09-11",
    "r": -1
   },
