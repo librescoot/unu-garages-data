@@ -190,7 +190,8 @@
    "w": "https://www.auto-planet.de/",
    "d": 1,
    "v": "2026-09-11",
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "AutoArenA",
@@ -354,7 +355,8 @@
    "w": "https://www.boschcarservice.com/de/de/werkstatt/autotechnik-janssen/",
    "v": "2026-09-11",
    "d": 1,
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Autowerkstatt-KARO - GbR",
@@ -1060,7 +1062,8 @@
    "w": "https://unumotors.com/de-at/unu-by-emco/",
    "v": "2026-09-19",
    "d": 1,
-   "r": 1
+   "r": 1,
+   "src": "manufacturer"
   },
   {
    "n": "Ernst Lorch KG",
@@ -1116,7 +1119,8 @@
    "w": "https://erollerberlin.com/",
    "v": "2026-09-11",
    "r": 1,
-   "lp": 1
+   "lp": 1,
+   "src": "garage"
   },
   {
    "n": "Fahrrad Gärtner - Diego Mercuri",
@@ -1147,7 +1151,8 @@
    "w": "https://www.fahrzeughaus-mueller.de/",
    "v": "2026-09-11",
    "d": 1,
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Fahrzeugtechnik - List",
@@ -1360,7 +1365,8 @@
    "w": "https://pon.com/activiteiten/automotive/wholesale-retail/huiskes-kokkeler-autogroep/",
    "v": "2026-09-11",
    "d": 1,
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Häusler Automobil GmbH & Co. KG – Neuaubing",
@@ -1643,7 +1649,8 @@
    "w": "http://www.carservice-maluck.de/",
    "d": 1,
    "v": "2026-09-11",
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Marseglia GmbH",
@@ -2090,7 +2097,8 @@
    "w": "https://www.rayci.nl/",
    "v": "2026-09-11",
    "d": 1,
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Reischl Kfz-Technik GmbH",
@@ -2166,7 +2174,8 @@
    "w": "https://www.rollerspot-stuttgart.de/",
    "v": "2026-09-11",
    "d": 1,
-   "r": -1
+   "r": -1,
+   "src": "manufacturer"
   },
   {
    "n": "Rori Motorradcenter",
@@ -2538,7 +2547,8 @@
    "w": "https://wvm-mobility.nl/",
    "v": "2026-09-11",
    "d": 1,
-   "r": 1
+   "r": 1,
+   "src": "manufacturer"
   },
   {
    "n": "Wöhrle GmbH",

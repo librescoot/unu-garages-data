@@ -40,7 +40,7 @@ Entries are short-key objects. `schema.json` is the authoritative definition.
 | `w` | Garage homepage |
 | `r` | Confirmed unu repairs: `1` yes, `0` no, `-1` unknown |
 | `a` | New-customer access: `all` (default, omitted) or `existing` |
-| `src` | Source: `research` (default, omitted), `community`, `garage`, `official` |
+| `src` | Source: `research` (default, omitted), `community`, `garage`, `manufacturer` |
 | `d` | Official unu dealer: `1` yes, `0` no |
 | `v` | Last verification date (ISO 8601) |
 
@@ -56,8 +56,8 @@ when access is unrestricted.
 
 `src` records where the entry's data came from. The default is `research`: the Librescoot
 project checked it itself against a first-party source. `community` is a report from a user or
-community member, `garage` is a statement from the garage itself, and `official` is an official
-unu/emco dealer listing. It is omitted when `research`.
+community member, `garage` is a statement from the garage itself, and `manufacturer` is a
+listing by unu/emco as an official dealer. It is omitted when `research`.
 
 ## License
 
