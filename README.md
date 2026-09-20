@@ -39,6 +39,7 @@ Entries are short-key objects. `schema.json` is the authoritative definition.
 | `ll` | `[lat, lng]` in WGS84, rounded to 5 decimals |
 | `w` | Garage homepage |
 | `r` | Confirmed unu repairs: `1` yes, `0` no, `-1` unknown |
+| `a` | New-customer access: `all` (default, omitted) or `existing` |
 | `d` | Official unu dealer: `1` yes, `0` no |
 | `v` | Last verification date (ISO 8601) |
 
@@ -47,6 +48,10 @@ Addresses are street, postal code, city. Street names use canonical local spelli
 
 `r: 1` means the garage is confirmed to accept unu repairs. `r: -1` means unconfirmed, which
 includes garages whose website shows no unu reference. `d: 1` marks official unu dealers.
+
+`a: existing` marks a garage that does service unu scooters but only for customers it already
+knows. Callers may be turned away, so it is worth showing on the entry. The field is omitted
+when access is unrestricted.
 
 ## License
 

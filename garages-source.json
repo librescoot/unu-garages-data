@@ -146,6 +146,21 @@
    "r": -1
   },
   {
+   "n": "Auto-Elektrik Günter Holtz GmbH & Co. KG",
+   "p": "+49303917854",
+   "s": "Dovestraße 7",
+   "z": "10587",
+   "c": "Berlin",
+   "cc": "DE",
+   "ll": [
+    52.52064,
+    13.32018
+   ],
+   "w": "https://bosch-service-holtz.de/",
+   "v": "2026-09-11",
+   "r": -1
+  },
+  {
    "n": "Auto-Planet AG",
    "p": "+49365436810",
    "s": "An der Beerweinschänke 3+5",
@@ -385,21 +400,6 @@
    "r": -1
   },
   {
-   "n": "BCS Berlin G. Holtz & Co.",
-   "p": "+49303917854",
-   "s": "Dovestraße 7",
-   "z": "10587",
-   "c": "Berlin",
-   "cc": "DE",
-   "ll": [
-    52.52064,
-    13.32018
-   ],
-   "w": "https://bosch-service-holtz.de/",
-   "v": "2026-09-11",
-   "r": -1
-  },
-  {
    "n": "BCS Bremen Seelig GmbH&Co.KG",
    "p": "+49421499990",
    "s": "Große Sortillenstraße 32",
@@ -471,8 +471,8 @@
     13.75117
    ],
    "w": "https://www.bikes4sale.com/new-bike-showrooms/dealer/unu/germany/dresden/21283/bcs-dresden-mezger-gmbh-co-kg",
-   "v": "2026-09-11",
-   "r": -1
+   "v": "2026-09-20",
+   "r": 1
   },
   {
    "n": "BCS Ergolding Stangl KG",
@@ -1503,8 +1503,9 @@
     7.45283
    ],
    "w": "https://rial.de/store/hans-w-schroeder-ohg-bosch-service/",
-   "v": "2026-09-11",
-   "r": -1
+   "v": "2026-09-20",
+   "r": 1,
+   "a": "existing"
   },
   {
    "n": "Herbert Wilke KFZ",

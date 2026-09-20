@@ -94,8 +94,17 @@
             0,
             -1
           ],
-          "description": "Confirmed unu repair service: 1=yes, 0=no, -1=unknown. Published garages_v2.json contains entries with r=1 or d=true; r may be omitted there when 1? no - kept.",
+          "description": "Confirmed unu repair service: 1=yes, 0=no, -1=unknown. Published garages_v2.json contains entries with r=1 or d=1.",
           "default": -1
+        },
+        "a": {
+          "type": "string",
+          "enum": [
+            "all",
+            "existing"
+          ],
+          "default": "all",
+          "description": "New-customer access: all=accepts new customers, existing=existing customers only (Bestandskunden). Only present on published entries when 'existing'."
         },
         "lp": {
           "type": "integer",
