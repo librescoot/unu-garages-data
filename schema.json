@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://librescoot.org/unu-garages-data/schema.json",
   "title": "unu garages v2",
-  "description": "Curated list of garages that service unu electric scooters. Short-key encoding: n=name, p=phone (E.164), s=street and house number, z=postal code, c=city, cc=ISO 3166-1 alpha-2 country code, ll=[lat,lng] WGS84, w=website, d=official unu dealer, r=confirmed unu repairs (-1 unknown, 0 no, 1 yes), v=verification date. garages_v2.json contains only confirmed-accepting garages (st omitted); garages-source.json contains all entries with st.",
+  "description": "Curated list of garages that service unu electric scooters. Short-key encoding: n=name, p=phone (E.164), s=street and house number, z=postal code, c=city, cc=ISO 3166-1 alpha-2 country code, ll=[lat,lng] WGS84, w=website, d=official unu dealer (1), lp=Librescoot partner garage (1), r=confirmed unu repairs (-1 unknown, 0 no, 1 yes), a=new-customer access (all|existing), src=where the entry's data came from (research|community|garage|manufacturer), v=verification date. garages_v2.json contains the entries with r=1 or d=1; garages-source.json carries the full curated set, including unverified entries.",
   "type": "object",
   "required": [
     "garages"
@@ -25,6 +25,7 @@
     },
     "garage": {
       "type": "object",
+      "additionalProperties": false,
       "required": [
         "n",
         "s",

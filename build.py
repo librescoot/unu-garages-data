@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Generate garages_v2.json (published: confirmed-accepting garages only) from
-garages-source.json (full curated set with st status codes)."""
+"""Generate garages_v2.json (published: confirmed repair shops and official unu
+dealers) from garages-source.json (the full curated set)."""
 import json, os, re, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 src = json.load(open(os.path.join(HERE, "garages-source.json")))["garages"]
-pub = [{k: v for k, v in e.items() if k != "st"} for e in src if e.get("r") == 1 or e.get("d") == 1]
+pub = [dict(e) for e in src if e.get("r") == 1 or e.get("d") == 1]
 out = {
     "$schema": "https://librescoot.org/unu-garages-data/schema.json",
     "garages": pub,

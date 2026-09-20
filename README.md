@@ -59,6 +59,21 @@ project checked it itself against a first-party source. `community` is a report 
 community member, `garage` is a statement from the garage itself, and `manufacturer` is a
 listing by unu/emco as an official dealer. It is omitted when `research`.
 
+## Curation status
+
+The community [unu Garages sheet](https://docs.google.com/spreadsheets/d/1HjrEGLzog7_UT2uFlycCOtVLc8M_mH4JaT-Eq8NB390/edit)
+carries a per-entry status alongside the data:
+
+| Status | Meaning | `r` |
+|--------|---------|-----|
+| `Accepts unu` | established that it does | `1` |
+| `Does not accept unu` | established that it does not | `0` |
+| `Not determined` | we have not been able to tell | `-1` |
+| `Not researchable` | the record itself is broken (bad address, unusable phone) | `-1` |
+| `Closed`, `Moved`, `Invalid` | lifecycle states | `-1` |
+
+`r` carries the outcome into the published data; `src` records how it was established.
+
 ## License
 
 The data is licensed under the [Open Data Commons Open Database License
