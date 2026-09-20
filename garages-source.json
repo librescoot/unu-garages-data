@@ -400,8 +400,9 @@
     9.15779
    ],
    "w": "https://bl-fahrzeugtechnik.de/",
-   "v": "2026-09-11",
-   "r": -1
+   "v": "2026-09-20",
+   "r": 1,
+   "src": "community"
   },
   {
    "n": "BCS-Kadykov",
